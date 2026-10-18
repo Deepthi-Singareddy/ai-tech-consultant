@@ -1,0 +1,27 @@
+{
+  "article_id": "5000558401",
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558401-how-to-import-categories-via-csv-file",
+  "title": "My Members > Member Categories > How to Import Categories via CSV File",
+  "category": "My Members > Member Categories",
+  "sections": [
+    {
+      "heading": "Category Structure Overview",
+      "content": "Brilliant Directories supports a 3-tier category hierarchy:\n1. Top-Level Category (e.g. Healthcare, Legal, Home Services)\n2. Sub-Category (e.g. Dentistry, Cardiology)\n3. Sub-Sub-Category (e.g. Pediatric Dentistry, Orthodontics)\nEach member can be assigned 1 Top-Level category and multiple Sub or Sub-Sub categories."
+    },
+    {
+      "heading": "Importing Categories with CSV",
+      "content": "1. Go to My Members > Member Categories.\n2. Click the orange 'Import Categories' button at the top right.\n3. Download the Sample CSV Template to ensure correct column headers: 'Top Level Category', 'Sub Level Category', and 'Sub-Sub Level Category'.\n4. Upload your prepared CSV file. BD will automatically deduplicate and create the parent-child relationships."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/import_categories_button.png",
+      "alt_text": "Import Categories via CSV button",
+      "caption": "Member Categories admin screen with Import button",
+      "section_context": "Navigate to My Members > Member Categories, click orange Import Categories button.",
+      "visual_description": "Screenshot of Member Categories screen showing top action bar with 'Add Top Category' and orange 'Import Categories' buttons."
+    }
+  ],
+  "full_text": "My Members > Member Categories > How to Import Categories via CSV File\n3-tier category hierarchy supported: Top-Level, Sub-Category, Sub-Sub-Category.",
+  "content_hash": "c3d4e5f6categories"
+}

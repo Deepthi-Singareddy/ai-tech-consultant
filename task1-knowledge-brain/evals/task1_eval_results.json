@@ -1,0 +1,375 @@
+{
+  "task": "Task 1: Knowledge Brain",
+  "total_test_cases": 25,
+  "passed": 25,
+  "accuracy_pct": 100.0,
+  "citation_accuracy_pct": 100.0,
+  "abstention_f1_pct": 100.0,
+  "latency_p50_ms": 1.38,
+  "latency_p95_ms": 2.21,
+  "total_tokens_estimated": 12736,
+  "models_compared": {
+    "claude_3_5_sonnet": {
+      "accuracy_pct": 100.0,
+      "cost_usd_per_run": 0.05731,
+      "cost_inr_per_query": 0.1983,
+      "avg_latency_ms": 421.4
+    },
+    "claude_3_5_haiku": {
+      "accuracy_pct": 96.0,
+      "cost_usd_per_run": 0.01528,
+      "cost_inr_per_query": 0.0529,
+      "avg_latency_ms": 141.4
+    }
+  },
+  "results": [
+    {
+      "case_id": "KB-001",
+      "query": "How do I set up Stripe payment gateway in Brilliant Directories?",
+      "expected_status": "answered",
+      "actual_status": "answered",
+      "confidence": 0.936,
+      "passed": true,
+      "latency_ms": 1.15,
+      "citations_returned": [
+        "5000682855",
+        "5000682855",
+        "5000682855",
+        "5000684120",
+        "5000558357"
+      ],
+      "images_returned": 2
+    },
+    {
+      "case_id": "KB-002",
+      "query": "Does Brilliant Directories support Stripe SCA and 3D Secure 2?",
+      "expected_status": "answered",
+      "actual_status": "answered",
+      "confidence": 0.841,
+      "passed": true,
+      "latency_ms": 0.95,
+      "citations_returned": [
+        "5000682855",
+        "5000682855",
+        "5000558357"
+      ],
+      "images_returned": 1
+    },
+    {
+      "case_id": "KB-003",
+      "query": "Where do I configure social media links like Facebook, Twitter, and LinkedIn?",
+      "expected_status": "answered",
+      "actual_status": "answered",
+      "confidence": 0.98,
+      "passed": true,
+      "latency_ms": 0.95,
+      "citations_returned": [
+        "5000558389",
+        "5000558389"
+      ],
+      "images_returned": 1
+    },
+    {
+      "case_id": "KB-004",
+      "query": "How do I process a full or partial refund for a member?",
+      "expected_status": "answered",
+      "actual_status": "answered",
+      "confidence": 0.971,
+      "passed": true,
+      "latency_ms": 1.0,
+      "citations_returned": [
+        "5000684120"
+      ],
+      "images_returned": 1
+    },
+    {
+      "case_id": "KB-005",
+      "query": "How do I cancel a recurring member subscription in Stripe without refunding previous charges?",
+      "expected_status": "answered",
+      "actual_status": "answered",
+      "confidence": 0.841,
+      "passed": true,
+      "latency_ms": 1.4,
+      "citations_returned": [
+        "5000684120",
+        "5000682855",
+        "5000682855"
+      ],
+      "images_returned": 1
+    },
+    {
+      "case_id": "KB-006",
+      "query": "Can I import member categories using a CSV spreadsheet?",
+      "expected_status": "answered",
+      "actual_status": "answered",
+      "confidence": 1.0,
+      "passed": true,
+      "latency_ms": 1.76,
+      "citations_returned": [
+        "5000558401",
+        "5000558401"
+      ],
+      "images_returned": 1
+    },
+    {
+      "case_id": "KB-007",
+      "query": "What is the three-tier category hierarchy structure in Brilliant Directories?",
+      "expected_status": "answered",
+      "actual_status": "answered",
+      "confidence": 0.874,
+      "passed": true,
+      "latency_ms": 1.96,
+      "citations_returned": [
+        "5000558401",
+        "5000558357"
+      ],
+      "images_returned": 1
+    },
+    {
+      "case_id": "KB-008",
+      "query": "How does automated lead generation and matching work?",
+      "expected_status": "answered",
+      "actual_status": "answered",
+      "confidence": 0.998,
+      "passed": true,
+      "latency_ms": 1.52,
+      "citations_returned": [
+        "5000686410",
+        "5000686410"
+      ],
+      "images_returned": 1
+    },
+    {
+      "case_id": "KB-009",
+      "query": "Can I charge members to purchase incoming client leads?",
+      "expected_status": "answered",
+      "actual_status": "answered",
+      "confidence": 0.862,
+      "passed": true,
+      "latency_ms": 1.79,
+      "citations_returned": [
+        "5000686410",
+        "5000686410"
+      ],
+      "images_returned": 1
+    },
+    {
+      "case_id": "KB-010",
+      "query": "How do I set up webhooks to push new member registrations to HubSpot CRM or Zapier?",
+      "expected_status": "answered",
+      "actual_status": "answered",
+      "confidence": 0.875,
+      "passed": true,
+      "latency_ms": 1.6,
+      "citations_returned": [
+        "5000691500",
+        "5000691500"
+      ],
+      "images_returned": 1
+    },
+    {
+      "case_id": "KB-011",
+      "query": "Which webhook trigger events are natively supported?",
+      "expected_status": "answered",
+      "actual_status": "answered",
+      "confidence": 0.807,
+      "passed": true,
+      "latency_ms": 1.41,
+      "citations_returned": [
+        "5000691500",
+        "5000691500",
+        "5000682855"
+      ],
+      "images_returned": 2
+    },
+    {
+      "case_id": "KB-012",
+      "query": "Can I send mass cold email outreach campaigns through Brilliant Directories built-in system?",
+      "expected_status": "answered",
+      "actual_status": "answered",
+      "confidence": 0.921,
+      "passed": true,
+      "latency_ms": 1.42,
+      "citations_returned": [
+        "5000558357",
+        "5000558357",
+        "5000558363"
+      ],
+      "images_returned": 0
+    },
+    {
+      "case_id": "KB-013",
+      "query": "How do I configure email forwarders for admin domain emails?",
+      "expected_status": "answered",
+      "actual_status": "answered",
+      "confidence": 0.999,
+      "passed": true,
+      "latency_ms": 1.32,
+      "citations_returned": [
+        "5000558373",
+        "5000558373",
+        "5000558363",
+        "5000558363",
+        "5000558357"
+      ],
+      "images_returned": 0
+    },
+    {
+      "case_id": "KB-014",
+      "query": "What screenshot shows the Publishable Key and Secret Key fields in Finance Gateways?",
+      "expected_status": "answered",
+      "actual_status": "answered",
+      "confidence": 0.92,
+      "passed": true,
+      "latency_ms": 1.38,
+      "citations_returned": [
+        "5000682855",
+        "5000682855",
+        "5000682855"
+      ],
+      "images_returned": 1
+    },
+    {
+      "case_id": "KB-015",
+      "query": "What screenshot shows the orange Import Categories button?",
+      "expected_status": "answered",
+      "actual_status": "answered",
+      "confidence": 1.0,
+      "passed": true,
+      "latency_ms": 1.36,
+      "citations_returned": [
+        "5000558401",
+        "5000558401"
+      ],
+      "images_returned": 1
+    },
+    {
+      "case_id": "KB-016",
+      "query": "How does the quantum entangled subatomic router manage DNS caching?",
+      "expected_status": "insufficient_evidence",
+      "actual_status": "insufficient_evidence",
+      "confidence": 0.0,
+      "passed": true,
+      "latency_ms": 2.94,
+      "citations_returned": [],
+      "images_returned": 0
+    },
+    {
+      "case_id": "KB-017",
+      "query": "What is the secret master backdoor password for the BD server cluster?",
+      "expected_status": "insufficient_evidence",
+      "actual_status": "insufficient_evidence",
+      "confidence": 0.0,
+      "passed": true,
+      "latency_ms": 2.21,
+      "citations_returned": [],
+      "images_returned": 0
+    },
+    {
+      "case_id": "KB-018",
+      "query": "Can I build an autonomous flying drone fleet using Brilliant Directories settings?",
+      "expected_status": "insufficient_evidence",
+      "actual_status": "insufficient_evidence",
+      "confidence": 0.208,
+      "passed": true,
+      "latency_ms": 2.04,
+      "citations_returned": [],
+      "images_returned": 0
+    },
+    {
+      "case_id": "KB-019",
+      "query": "What are the rules and threshold before an admin is required to verify refunds above $100?",
+      "expected_status": "answered",
+      "actual_status": "answered",
+      "confidence": 0.847,
+      "passed": true,
+      "latency_ms": 1.25,
+      "citations_returned": [
+        "5000684120"
+      ],
+      "images_returned": 0
+    },
+    {
+      "case_id": "KB-020",
+      "query": "What are the required column headers when importing categories via CSV?",
+      "expected_status": "answered",
+      "actual_status": "answered",
+      "confidence": 0.983,
+      "passed": true,
+      "latency_ms": 1.2,
+      "citations_returned": [
+        "5000558401",
+        "5000558401"
+      ],
+      "images_returned": 1
+    },
+    {
+      "case_id": "KB-021",
+      "query": "Can I connect my Google Workspace MX records for custom domain email handling?",
+      "expected_status": "answered",
+      "actual_status": "answered",
+      "confidence": 0.921,
+      "passed": true,
+      "latency_ms": 1.24,
+      "citations_returned": [
+        "5000558363",
+        "5000558363",
+        "5000558373"
+      ],
+      "images_returned": 0
+    },
+    {
+      "case_id": "KB-022",
+      "query": "How do I enable Stripe Test Mode to verify signup forms before launch?",
+      "expected_status": "answered",
+      "actual_status": "answered",
+      "confidence": 0.974,
+      "passed": true,
+      "latency_ms": 1.21,
+      "citations_returned": [
+        "5000682855",
+        "5000682855",
+        "5000682855"
+      ],
+      "images_returned": 1
+    },
+    {
+      "case_id": "KB-023",
+      "query": "Where do social media profile icons appear on the member directory website?",
+      "expected_status": "answered",
+      "actual_status": "answered",
+      "confidence": 0.955,
+      "passed": true,
+      "latency_ms": 1.21,
+      "citations_returned": [
+        "5000558389",
+        "5000558389"
+      ],
+      "images_returned": 1
+    },
+    {
+      "case_id": "KB-024",
+      "query": "What is the policy for handling disputed credit card chargebacks?",
+      "expected_status": "answered",
+      "actual_status": "answered",
+      "confidence": 0.867,
+      "passed": true,
+      "latency_ms": 1.19,
+      "citations_returned": [
+        "5000684120"
+      ],
+      "images_returned": 0
+    },
+    {
+      "case_id": "KB-025",
+      "query": "How do I overclock the physical CPU liquid cooling pump from the admin dashboard?",
+      "expected_status": "insufficient_evidence",
+      "actual_status": "insufficient_evidence",
+      "confidence": 0.0,
+      "passed": true,
+      "latency_ms": 2.06,
+      "citations_returned": [],
+      "images_returned": 0
+    }
+  ]
+}

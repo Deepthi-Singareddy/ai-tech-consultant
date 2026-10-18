@@ -1,0 +1,502 @@
+[
+  {
+    "id": "EM-001",
+    "sender": "sarah.jenkins@lawdirectory.com",
+    "senderName": "Sarah Jenkins",
+    "subject": "How do I connect our Stripe account for member subscriptions?",
+    "body": "Hi support, we are launching our legal directory next Monday and need to know where to paste our Stripe API keys and how to test with a 4242 test card first. Could you send the steps?",
+    "receivedAt": "2026-10-14T09:15:00Z",
+    "expectedCategory": "HOW_TO",
+    "expectedRisk": "LOW"
+  },
+  {
+    "id": "EM-002",
+    "sender": "marcus.vance@dentalfind.org",
+    "senderName": "Dr. Marcus Vance",
+    "subject": "How to import categories via CSV spreadsheet?",
+    "body": "Hello, we have a list of 450 dental specialty categories organized by top-level, sub-category, and sub-sub category. How do we import this via CSV without creating duplicates?",
+    "receivedAt": "2026-10-14T09:45:00Z",
+    "expectedCategory": "HOW_TO",
+    "expectedRisk": "LOW"
+  },
+  {
+    "id": "EM-003",
+    "sender": "elena.rostova@fitnesspro.net",
+    "senderName": "Elena Rostova",
+    "subject": "Where can I update our social media profile links?",
+    "body": "We rebranded our Instagram and LinkedIn handles. Where in the admin dashboard do we update the social media URLs so they show up in our website footer?",
+    "receivedAt": "2026-10-14T10:20:00Z",
+    "expectedCategory": "HOW_TO",
+    "expectedRisk": "LOW"
+  },
+  {
+    "id": "EM-004",
+    "sender": "kevin.b@contractorhub.io",
+    "senderName": "Kevin Bradley",
+    "subject": "Setting up automated lead matching for local roofers",
+    "body": "How do we configure lead auto-matching so when a homeowner submits a request in Dallas, it automatically routes to up to 3 verified roofing contractors?",
+    "receivedAt": "2026-10-14T11:00:00Z",
+    "expectedCategory": "HOW_TO",
+    "expectedRisk": "LOW"
+  },
+  {
+    "id": "EM-005",
+    "sender": "priya.sharma@medconnect.in",
+    "senderName": "Priya Sharma",
+    "subject": "Can we configure email forwarders for info@ and support@?",
+    "body": "Hi, we want emails sent to info@medconnect.in to forward directly to our personal Gmail inboxes without creating separate paid mailboxes. Is this possible?",
+    "receivedAt": "2026-10-14T11:35:00Z",
+    "expectedCategory": "HOW_TO",
+    "expectedRisk": "LOW"
+  },
+  {
+    "id": "EM-006",
+    "sender": "david.cohen@techdirect.co",
+    "senderName": "David Cohen",
+    "subject": "How to connect Google Workspace MX records to our custom domain?",
+    "body": "We purchased Google Workspace for our directory team. Where do we point our domain MX records inside the Brilliant Directories DNS manager?",
+    "receivedAt": "2026-10-14T12:10:00Z",
+    "expectedCategory": "HOW_TO",
+    "expectedRisk": "LOW"
+  },
+  {
+    "id": "EM-007",
+    "sender": "lisa.wong@weddingspot.ca",
+    "senderName": "Lisa Wong",
+    "subject": "How do I enable 3D Secure / Stripe SCA compliance?",
+    "body": "Our European customers require Strong Customer Authentication (SCA) with 2-factor authentication during checkout. Does our Stripe gateway support this natively?",
+    "receivedAt": "2026-10-14T13:00:00Z",
+    "expectedCategory": "HOW_TO",
+    "expectedRisk": "LOW"
+  },
+  {
+    "id": "EM-008",
+    "sender": "tom.miller@realtorindex.com",
+    "senderName": "Tom Miller",
+    "subject": "How to change membership plan pricing tiers?",
+    "body": "We want to increase our Premium Real Estate Agent plan from $49/mo to $79/mo. How do we update the membership plan settings without affecting existing subscribers?",
+    "receivedAt": "2026-10-14T13:45:00Z",
+    "expectedCategory": "HOW_TO",
+    "expectedRisk": "LOW"
+  },
+  {
+    "id": "EM-009",
+    "sender": "amanda.cruz@petcarematch.org",
+    "senderName": "Amanda Cruz",
+    "subject": "How do I add custom fields to the member registration form?",
+    "body": "We need pet sitters to list their pet first-aid certification on signup. How can we add a custom checkbox or text field to the registration form?",
+    "receivedAt": "2026-10-14T14:15:00Z",
+    "expectedCategory": "HOW_TO",
+    "expectedRisk": "LOW"
+  },
+  {
+    "id": "EM-010",
+    "sender": "brian.obrien@irishbusiness.ie",
+    "senderName": "Brian O'Brien",
+    "subject": "How do we set up webhooks to notify Zapier on new signups?",
+    "body": "We want every new business signup to automatically trigger a welcome SMS in Twilio via Zapier. Where do we configure the webhook endpoint in the admin?",
+    "receivedAt": "2026-10-14T15:00:00Z",
+    "expectedCategory": "HOW_TO",
+    "expectedRisk": "LOW"
+  },
+  {
+    "id": "EM-011",
+    "sender": "claire.dubois@artisans.fr",
+    "senderName": "Claire Dubois",
+    "subject": "How do I export my transaction history to an Excel file?",
+    "body": "Our accountant needs our Q3 financial records. How do I export all paid invoices and transaction history to a CSV spreadsheet?",
+    "receivedAt": "2026-10-14T15:40:00Z",
+    "expectedCategory": "HOW_TO",
+    "expectedRisk": "LOW"
+  },
+  {
+    "id": "EM-012",
+    "sender": "jorge.ramirez@constructores.mx",
+    "senderName": "Jorge Ramirez",
+    "subject": "Can I charge members to purchase incoming client leads?",
+    "body": "We want to provide preview leads for free, but charge contractors $15 to unlock the homeowner phone number and address. How do we set this up?",
+    "receivedAt": "2026-10-14T16:20:00Z",
+    "expectedCategory": "HOW_TO",
+    "expectedRisk": "LOW"
+  },
+  {
+    "id": "EM-013",
+    "sender": "mark.spencer@autogarage.co.uk",
+    "senderName": "Mark Spencer",
+    "subject": "Stripe webhook error: invoice.payment_succeeded not registering",
+    "body": "Hello, our members are paying via Stripe checkout, but their account status remains Pending and the invoice shows unpaid in BD. Looks like webhooks are failing with a 404 error.",
+    "receivedAt": "2026-10-14T17:00:00Z",
+    "expectedCategory": "TROUBLESHOOTING",
+    "expectedRisk": "HIGH"
+  },
+  {
+    "id": "EM-014",
+    "sender": "natalie.portman@castingcall.com",
+    "senderName": "Natalie Brooks",
+    "subject": "Google Maps API error: pin not showing on member profiles",
+    "body": "When visitors search by zip code, the search results page shows a gray box with 'This page can't load Google Maps correctly'. Is our API key configured properly?",
+    "receivedAt": "2026-10-14T17:30:00Z",
+    "expectedCategory": "TROUBLESHOOTING",
+    "expectedRisk": "MEDIUM"
+  },
+  {
+    "id": "EM-015",
+    "sender": "daniel.kim@seoulguide.kr",
+    "senderName": "Daniel Kim",
+    "subject": "Member photos fail to upload on registration",
+    "body": "Several new members reported that uploading profile pictures larger than 5MB fails with a generic error code. How do we increase the file upload limit or fix this?",
+    "receivedAt": "2026-10-14T18:10:00Z",
+    "expectedCategory": "TROUBLESHOOTING",
+    "expectedRisk": "MEDIUM"
+  },
+  {
+    "id": "EM-016",
+    "sender": "rachel.adams@lawyersgroup.org",
+    "senderName": "Rachel Adams",
+    "subject": "Monthly newsletter emails going directly to spam",
+    "body": "We sent our monthly newsletter to 1,200 members and over 40% landed in spam folders. Do we need to set up SPF, DKIM, or DMARC DNS records?",
+    "receivedAt": "2026-10-14T18:45:00Z",
+    "expectedCategory": "TROUBLESHOOTING",
+    "expectedRisk": "MEDIUM"
+  },
+  {
+    "id": "EM-017",
+    "sender": "hassan.ali@dubaiproperty.ae",
+    "senderName": "Hassan Ali",
+    "subject": "Credit card checkout throwing currency mismatch error",
+    "body": "Our directory pricing is set to AED, but Stripe is attempting to charge in USD, causing failed transactions for local UAE credit cards. Where is the currency toggle?",
+    "receivedAt": "2026-10-14T19:20:00Z",
+    "expectedCategory": "TROUBLESHOOTING",
+    "expectedRisk": "HIGH"
+  },
+  {
+    "id": "EM-018",
+    "sender": "carla.rossi@ristoranti.it",
+    "senderName": "Carla Rossi",
+    "subject": "CSV category import stopped halfway with fatal syntax error",
+    "body": "I uploaded a CSV with 1,000 Italian restaurant categories and it halted at row 342 saying column header mismatch. Can you inspect our file?",
+    "receivedAt": "2026-10-14T20:00:00Z",
+    "expectedCategory": "TROUBLESHOOTING",
+    "expectedRisk": "MEDIUM"
+  },
+  {
+    "id": "EM-019",
+    "sender": "stephen.taylor@accountantfinder.com",
+    "senderName": "Stephen Taylor",
+    "subject": "Search results showing members from the wrong state",
+    "body": "When searching for accountants in California, we are seeing listings from Texas showing up in the search results. How do we recalibrate the location search radius?",
+    "receivedAt": "2026-10-14T20:45:00Z",
+    "expectedCategory": "TROUBLESHOOTING",
+    "expectedRisk": "MEDIUM"
+  },
+  {
+    "id": "EM-020",
+    "sender": "maria.santos@turismobrasil.br",
+    "senderName": "Maria Santos",
+    "subject": "SSL certificate expired warning appearing in browser",
+    "body": "Visitors are getting Chrome 'Your connection is not private' warnings when visiting our domain. Can you renew or reinstall our SSL certificate immediately?",
+    "receivedAt": "2026-10-14T21:15:00Z",
+    "expectedCategory": "TROUBLESHOOTING",
+    "expectedRisk": "HIGH"
+  },
+  {
+    "id": "EM-021",
+    "sender": "eric.schmidt@berlinstartups.de",
+    "senderName": "Eric Schmidt",
+    "subject": "reCAPTCHA v3 blocking legitimate user signups",
+    "body": "Our signup conversion rate dropped 80% because spam protection is falsely scoring real human users as bots and blocking form submissions.",
+    "receivedAt": "2026-10-14T22:00:00Z",
+    "expectedCategory": "TROUBLESHOOTING",
+    "expectedRisk": "MEDIUM"
+  },
+  {
+    "id": "EM-022",
+    "sender": "anna.kowalski@polandtech.pl",
+    "senderName": "Anna Kowalski",
+    "subject": "Lead auto-match notifications not sending to contractors",
+    "body": "Homeowners are submitting lead inquiries and they appear in the admin, but matched members are not receiving the automated email alerts.",
+    "receivedAt": "2026-10-14T22:30:00Z",
+    "expectedCategory": "TROUBLESHOOTING",
+    "expectedRisk": "MEDIUM"
+  },
+  {
+    "id": "EM-023",
+    "sender": "greg.h@fitnessmatch.com",
+    "senderName": "Greg Henderson",
+    "subject": "Can you build a custom calendar booking system for our personal trainers?",
+    "body": "We want clients to be able to book 1-on-1 personal training slots directly on member profiles, with real-time Google Calendar two-way synchronization.",
+    "receivedAt": "2026-10-15T08:00:00Z",
+    "expectedCategory": "PROJECT_REQUEST",
+    "expectedRisk": "MEDIUM"
+  },
+  {
+    "id": "EM-024",
+    "sender": "sophia.martinez@weddings.org",
+    "senderName": "Sophia Martinez",
+    "subject": "New Project: Wrap our Brilliant Directories site into native iOS & Android apps",
+    "body": "Our executive team wants to publish native apps in the Apple App Store and Google Play Store with push notification capabilities for member messages.",
+    "receivedAt": "2026-10-15T08:45:00Z",
+    "expectedCategory": "PROJECT_REQUEST",
+    "expectedRisk": "MEDIUM"
+  },
+  {
+    "id": "EM-025",
+    "sender": "liam.nelson@musicproducers.co",
+    "senderName": "Liam Nelson",
+    "subject": "Custom audio player widget for member portfolios",
+    "body": "We need a custom widget on member listing pages where music producers can upload and stream MP3 demo tracks with waveform visualization.",
+    "receivedAt": "2026-10-15T09:30:00Z",
+    "expectedCategory": "PROJECT_REQUEST",
+    "expectedRisk": "MEDIUM"
+  },
+  {
+    "id": "EM-026",
+    "sender": "chloe.dupont@frenchdining.com",
+    "senderName": "Chloe Dupont",
+    "subject": "Multi-language translation switcher (English / French / Spanish)",
+    "body": "Can we implement automatic multi-language subdomains with localized directory search and automated currency switching for European visitors?",
+    "receivedAt": "2026-10-15T10:15:00Z",
+    "expectedCategory": "PROJECT_REQUEST",
+    "expectedRisk": "MEDIUM"
+  },
+  {
+    "id": "EM-027",
+    "sender": "tariq.mansour@dubaicars.com",
+    "senderName": "Tariq Mansour",
+    "subject": "Automated vehicle inventory feed import via XML API",
+    "body": "We need a daily cron job that fetches vehicle listings from 25 car dealerships via an external XML inventory feed and syncs them into member classifieds.",
+    "receivedAt": "2026-10-15T11:00:00Z",
+    "expectedCategory": "PROJECT_REQUEST",
+    "expectedRisk": "MEDIUM"
+  },
+  {
+    "id": "EM-028",
+    "sender": "jessica.alba@wellnesshub.io",
+    "senderName": "Jessica Tan",
+    "subject": "Complete homepage UI/UX redesign and branding overhaul",
+    "body": "We have new Figma design mockups for our homepage, category search, and hero section. Can your team take the Figma designs and build the custom HTML/CSS?",
+    "receivedAt": "2026-10-15T11:45:00Z",
+    "expectedCategory": "PROJECT_REQUEST",
+    "expectedRisk": "MEDIUM"
+  },
+  {
+    "id": "EM-029",
+    "sender": "walter.white@albuquerquelaw.com",
+    "senderName": "Walter White",
+    "subject": "Please cancel my annual subscription and refund the $1,188 charge",
+    "body": "My credit card was charged $1,188 yesterday for an annual renewal that I did not authorize. I am closing my firm this month. Please cancel my account and refund the charge immediately.",
+    "receivedAt": "2026-10-15T12:30:00Z",
+    "expectedCategory": "REFUND_CANCELLATION",
+    "expectedRisk": "HIGH"
+  },
+  {
+    "id": "EM-030",
+    "sender": "joshua.reed@realtynet.com",
+    "senderName": "Joshua Reed",
+    "subject": "Double billed on invoice #INV-9821 - request refund for duplicate $250",
+    "body": "I was billed twice on October 12th for our monthly premium sponsorship. My bank statement shows two identical charges of $250. Please refund the duplicate transaction.",
+    "receivedAt": "2026-10-15T13:10:00Z",
+    "expectedCategory": "REFUND_CANCELLATION",
+    "expectedRisk": "HIGH"
+  },
+  {
+    "id": "EM-031",
+    "sender": "melissa.stone@healthhub.org",
+    "senderName": "Melissa Stone",
+    "subject": "Cancel subscription and issue partial refund for unused 8 months",
+    "body": "We signed up for the 1-year plan in June, but our organization is merging. Can we downgrade to free tier and receive a prorated refund for the remaining months?",
+    "receivedAt": "2026-10-15T14:00:00Z",
+    "expectedCategory": "REFUND_CANCELLATION",
+    "expectedRisk": "HIGH"
+  },
+  {
+    "id": "EM-032",
+    "sender": "frank.castle@securityguard.net",
+    "senderName": "Frank Castle",
+    "subject": "Unauthorized charge dispute on card ending in 8812",
+    "body": "There is a $79 charge from your platform on my corporate credit card that nobody on our team authorized. If not refunded within 48 hours I will file a bank chargeback dispute.",
+    "receivedAt": "2026-10-15T14:45:00Z",
+    "expectedCategory": "REFUND_CANCELLATION",
+    "expectedRisk": "HIGH"
+  },
+  {
+    "id": "EM-033",
+    "sender": "grace.hopper@codeacademy.edu",
+    "senderName": "Grace Hopper",
+    "subject": "Account cancellation request for member ID 50412",
+    "body": "Please terminate our directory listing and cancel future automated Stripe billing as our educational grant has ended. Please confirm cancellation.",
+    "receivedAt": "2026-10-15T15:20:00Z",
+    "expectedCategory": "REFUND_CANCELLATION",
+    "expectedRisk": "HIGH"
+  },
+  {
+    "id": "EM-034",
+    "sender": "samuel.jackson@pulpcreative.com",
+    "senderName": "Samuel Jackson",
+    "subject": "Lead package refund request - zero leads delivered in 30 days",
+    "body": "We paid $150 for the 10-lead boost package last month and haven't received a single inquiry. Please refund the $150 package cost back to our original card.",
+    "receivedAt": "2026-10-15T16:00:00Z",
+    "expectedCategory": "REFUND_CANCELLATION",
+    "expectedRisk": "HIGH"
+  },
+  {
+    "id": "EM-035",
+    "sender": "richard.hendricks@piedpiper.io",
+    "senderName": "Richard Hendricks",
+    "subject": "UNACCEPTABLE: Our directory went offline during major investor press release",
+    "body": "Our directory was completely down and returning 502 Bad Gateway errors for over 3 hours today right when TechCrunch published our feature. We lost thousands of signups. I demand an explanation from leadership.",
+    "receivedAt": "2026-10-15T16:45:00Z",
+    "expectedCategory": "COMPLAINT",
+    "expectedRisk": "CRITICAL"
+  },
+  {
+    "id": "EM-036",
+    "sender": "victor.von.doom@latveriatax.com",
+    "senderName": "Victor Vance",
+    "subject": "Spam bot profiles flooding our member directory - total disaster",
+    "body": "Over 800 fake cryptocurrency spam profiles registered on our site in the last 24 hours. Your spam protection is completely useless. Our paying members are furious.",
+    "receivedAt": "2026-10-15T17:30:00Z",
+    "expectedCategory": "COMPLAINT",
+    "expectedRisk": "HIGH"
+  },
+  {
+    "id": "EM-037",
+    "sender": "olivia.pope@crisispr.com",
+    "senderName": "Olivia Pope",
+    "subject": "Data export timeout corrupted our customer database",
+    "body": "We attempted to run a member CSV backup and the process crashed, corrupting profile fields for 3,000 members. This is gross negligence and our legal team is reviewing our SLA.",
+    "receivedAt": "2026-10-15T18:15:00Z",
+    "expectedCategory": "COMPLAINT",
+    "expectedRisk": "CRITICAL"
+  },
+  {
+    "id": "EM-038",
+    "sender": "peter.parker@dailybuglephoto.org",
+    "senderName": "Peter Parker",
+    "subject": "Terrible customer support response times this past week",
+    "body": "I submitted an urgent ticket on Monday about payment checkout failing and nobody responded for 4 days while we were losing paying subscribers. This level of support is ridiculous.",
+    "receivedAt": "2026-10-15T19:00:00Z",
+    "expectedCategory": "COMPLAINT",
+    "expectedRisk": "HIGH"
+  },
+  {
+    "id": "EM-039",
+    "sender": "bruce.wayne@gothamfintech.com",
+    "senderName": "Bruce Wayne",
+    "subject": "Security concern: member billing addresses visible in search preview",
+    "body": "We noticed a serious privacy vulnerability where private member billing address fields were exposed on public search cards. Fix this immediately or we will report this to regulatory authorities.",
+    "receivedAt": "2026-10-15T19:45:00Z",
+    "expectedCategory": "COMPLAINT",
+    "expectedRisk": "CRITICAL"
+  },
+  {
+    "id": "EM-040",
+    "sender": "tony.stark@starkindustries.com",
+    "senderName": "Tony Stark",
+    "subject": "Latest platform update broke our custom CSS navigation bar",
+    "body": "Your automated deployment last night overwrote our custom child theme header and navigation styling. Our corporate site looks completely distorted. Revert it immediately.",
+    "receivedAt": "2026-10-15T20:30:00Z",
+    "expectedCategory": "COMPLAINT",
+    "expectedRisk": "HIGH"
+  },
+  {
+    "id": "EM-041",
+    "sender": "harvey.specter@pearsonhardman.com",
+    "senderName": "Harvey Specter",
+    "subject": "Quote request: Migrating 18,000 member listings from WordPress to Brilliant Directories",
+    "body": "We are migrating our national attorney association directory from WordPress GeoDirectory to Brilliant Directories. What would be the total cost and timeline for a turnkey migration with zero data loss?",
+    "receivedAt": "2026-10-15T21:15:00Z",
+    "expectedCategory": "QUOTE_REQUEST",
+    "expectedRisk": "MEDIUM"
+  },
+  {
+    "id": "EM-042",
+    "sender": "donna.paulsen@legalops.com",
+    "senderName": "Donna Paulsen",
+    "subject": "Pricing for custom HubSpot two-way webhook integration",
+    "body": "Could you provide a detailed price quote and estimated developer hours for setting up a two-way sync between our BD member profiles and HubSpot CRM custom deals?",
+    "receivedAt": "2026-10-15T22:00:00Z",
+    "expectedCategory": "QUOTE_REQUEST",
+    "expectedRisk": "MEDIUM"
+  },
+  {
+    "id": "EM-043",
+    "sender": "mike.ross@innovatelegal.org",
+    "senderName": "Mike Ross",
+    "subject": "How much would it cost to develop a custom multi-step quote calculator?",
+    "body": "We want a custom widget where visitors enter their business revenue and employee count to calculate which membership tier suits them best. Can you give us an hourly estimate and pricing?",
+    "receivedAt": "2026-10-15T22:45:00Z",
+    "expectedCategory": "QUOTE_REQUEST",
+    "expectedRisk": "MEDIUM"
+  },
+  {
+    "id": "EM-044",
+    "sender": "louis.litt@littassociates.com",
+    "senderName": "Louis Litt",
+    "subject": "Cost inquiry for white-label iOS and Android app publication",
+    "body": "We want to budget for our Q1 technical roadmap. How much does your team charge for building, branding, and submitting our directory apps to both mobile app stores?",
+    "receivedAt": "2026-10-15T23:30:00Z",
+    "expectedCategory": "QUOTE_REQUEST",
+    "expectedRisk": "MEDIUM"
+  },
+  {
+    "id": "EM-045",
+    "sender": "rachel.zane@paralegalnetwork.com",
+    "senderName": "Rachel Zane",
+    "subject": "Estimate for custom accessibility WCAG 2.1 AA compliance audit and remediation",
+    "body": "Our government directory contract requires strict WCAG 2.1 AA compliance. What is your pricing and scope for auditing and remediating our directory templates for full accessibility?",
+    "receivedAt": "2026-10-16T08:00:00Z",
+    "expectedCategory": "QUOTE_REQUEST",
+    "expectedRisk": "MEDIUM"
+  },
+  {
+    "id": "EM-046",
+    "sender": "alan.grant@jurassictours.org",
+    "senderName": "Dr. Alan Grant",
+    "subject": "Following up on Ticket #4810: Stripe SCA test mode verification",
+    "body": "Hi support, checking in on ticket #4810 from Tuesday. Were you able to confirm that our test webhook endpoint in Stripe is receiving ping events successfully?",
+    "receivedAt": "2026-10-16T08:45:00Z",
+    "expectedCategory": "FOLLOW_UP",
+    "expectedRisk": "LOW"
+  },
+  {
+    "id": "EM-047",
+    "sender": "ellie.sattler@paleonet.edu",
+    "senderName": "Dr. Ellie Sattler",
+    "subject": "Any update on our custom CSV category import assistance request?",
+    "body": "Just following up to see if a senior technician had a chance to inspect our dental categories CSV spreadsheet that had formatting errors. Thanks!",
+    "receivedAt": "2026-10-16T09:30:00Z",
+    "expectedCategory": "FOLLOW_UP",
+    "expectedRisk": "LOW"
+  },
+  {
+    "id": "EM-048",
+    "sender": "ian.malcolm@chaostheory.com",
+    "senderName": "Dr. Ian Malcolm",
+    "subject": "Status of SSL certificate re-issuance for custom domain",
+    "body": "Following up on our domain SSL installation request. Has the Let's Encrypt certificate finished provisioning on the server cluster yet?",
+    "receivedAt": "2026-10-16T10:15:00Z",
+    "expectedCategory": "FOLLOW_UP",
+    "expectedRisk": "LOW"
+  },
+  {
+    "id": "EM-049",
+    "sender": "john.hammond@ingenresorts.com",
+    "senderName": "John Hammond",
+    "subject": "Checking in on our quote for custom mobile app development",
+    "body": "We had a discovery call with your tech consultant last Friday regarding our native iOS app project. Just wanted to check when we can expect the formal scope of work and estimate?",
+    "receivedAt": "2026-10-16T11:00:00Z",
+    "expectedCategory": "FOLLOW_UP",
+    "expectedRisk": "LOW"
+  },
+  {
+    "id": "EM-050",
+    "sender": "dennis.nedry@islandtech.net",
+    "senderName": "Dennis Nedry",
+    "subject": "Update on invoice refund status for account #8812",
+    "body": "Hi, following up on our cancellation from yesterday. Did the finance team process the Stripe refund for our monthly plan yet? Please send the transaction receipt.",
+    "receivedAt": "2026-10-16T11:45:00Z",
+    "expectedCategory": "FOLLOW_UP",
+    "expectedRisk": "LOW"
+  }
+]

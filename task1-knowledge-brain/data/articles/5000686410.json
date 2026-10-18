@@ -1,0 +1,27 @@
+{
+  "article_id": "5000686410",
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000686410-how-to-set-up-lead-generation-and-auto-matching",
+  "title": "Leads > Lead Settings > How to Set Up Lead Generation and Auto-Matching",
+  "category": "Leads > Lead Settings",
+  "sections": [
+    {
+      "heading": "Automated Lead Matching System",
+      "content": "Brilliant Directories includes an automated lead engine that receives visitor inquiries and matches them to suitable professionals based on Category and Geographic Location (City, Zip Code, or Radius).\nAdmins can choose between Free Leads, Paid Leads (where members pay to purchase the lead contact details), or Preview Leads."
+    },
+    {
+      "heading": "Configuring Lead Auto-Match Rules",
+      "content": "1. Navigate to Leads > Lead Settings.\n2. Under 'Auto-Match Leads', choose 'Auto-Match and Auto-Send' or 'Admin Manually Approves Leads Before Sending'.\n3. Configure Maximum Matches: Set how many members receive each lead (e.g., maximum 3 professionals).\n4. In 'Lead Price', define default purchase cost per lead or override by membership plan."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/lead_settings_screen.png",
+      "alt_text": "Lead Settings Auto-Match Configuration",
+      "caption": "Lead Settings control panel",
+      "section_context": "Go to Leads > Lead Settings, toggle Auto-Match Leads.",
+      "visual_description": "Screenshot of Lead Settings page showing dropdown options for Auto-Match mode and numeric input field for Max Members per Lead."
+    }
+  ],
+  "full_text": "Leads > Lead Settings > How to Set Up Lead Generation and Auto-Matching\nAuto-match leads by category and location. Free vs Paid leads configured in Leads > Lead Settings.",
+  "content_hash": "d4e5f6g7leads"
+}

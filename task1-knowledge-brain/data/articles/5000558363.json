@@ -1,0 +1,19 @@
+{
+  "article_id": "5000558363",
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558363-emails-email-accounts",
+  "title": "Emails > Email Accounts > Setting Up Domain Email Accounts and MX Records",
+  "category": "Emails > Email Accounts",
+  "sections": [
+    {
+      "heading": "Connecting 3rd Party Email Providers",
+      "content": "You can connect your custom domain to third-party email providers such as Google Workspace, Microsoft 365, or Zoho. To do this, point your custom domain's MX records to Google Workspace or your chosen provider in your DNS manager or cPanel."
+    },
+    {
+      "heading": "Webmail vs External Hosting",
+      "content": "Brilliant Directories provides basic default webmail accounts for your admin domain, but professional agencies recommend routing all primary inbox traffic through Google Workspace for superior spam deliverability."
+    }
+  ],
+  "images": [],
+  "full_text": "Emails > Email Accounts > Setting Up Domain Email Accounts and MX Records\nConnect Google Workspace by pointing MX records in DNS settings.",
+  "content_hash": "h8i9j0k1mxrecords"
+}

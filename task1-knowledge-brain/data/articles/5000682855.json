@@ -1,0 +1,31 @@
+{
+  "article_id": "5000682855",
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000682855-how-to-set-up-stripe-payment-gateway",
+  "title": "Finance > Payment Gateways > How to Set Up Stripe Payment Gateway",
+  "category": "Finance > Payment Gateways",
+  "sections": [
+    {
+      "heading": "Overview of Stripe Integration",
+      "content": "Brilliant Directories natively integrates with Stripe to process credit card payments, recurring membership subscriptions, paid lead purchases, and digital product sales. It fully supports Stripe SCA (Strong Customer Authentication) and 3D Secure 2 compliance."
+    },
+    {
+      "heading": "Step-by-Step Stripe Setup",
+      "content": "1. Navigate in your Admin Dashboard to Finance > Payment Gateways.\n2. In the Gateway Dropdown, select 'Stripe'.\n3. Click the blue 'Connect with Stripe' button or manually input your Stripe Publishable Key and Secret Key.\n4. Ensure your Stripe Webhook endpoint is copied from BD into your Stripe Dashboard at Developers > Webhooks (endpoint: https://yourdomain.com/stripe_webhook.php).\n5. Set Webhook events to listen for: 'invoice.payment_succeeded', 'customer.subscription.deleted', and 'charge.refunded'."
+    },
+    {
+      "heading": "Supported Currencies and Test Mode",
+      "content": "Stripe supports over 135 currencies. You can toggle 'Test Mode' on in Finance > Payment Gateways to test signup flows with Stripe 4242 test card numbers before switching to Live Mode."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/stripe_settings_bd.png",
+      "alt_text": "Finance Payment Gateways Stripe Settings Screen",
+      "caption": "Admin Dashboard - Finance > Payment Gateways configuration page",
+      "section_context": "Navigate in your Admin Dashboard to Finance > Payment Gateways. Select Stripe in dropdown.",
+      "visual_description": "Screenshot showing Finance > Payment Gateways screen with Stripe selected, Publishable Key field, Secret Key field, and Test Mode toggle button."
+    }
+  ],
+  "full_text": "Finance > Payment Gateways > How to Set Up Stripe Payment Gateway\nCategory: Finance > Payment Gateways\n\nBrilliant Directories natively integrates with Stripe for credit cards and subscriptions with SCA compliance. Admin Dashboard: Finance > Payment Gateways.",
+  "content_hash": "a1b2c3d4stripe"
+}

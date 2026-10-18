@@ -1,0 +1,326 @@
+{
+  "version": "1.0",
+  "total_chunks": 20,
+  "chunks": [
+    {
+      "chunk_id": "5000558357_sec_0",
+      "article_id": "5000558357",
+      "title": "Emails > Email Campaigns > Can I Send a Mass Email Campaign Using Brilliant Directories?",
+      "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558357-can-i-send-a-mass-email-campaign-using-brilliant-directories-",
+      "category": "Emails > Email Campaigns",
+      "heading": "Overview of Mass Emailing Capabilities",
+      "text": "Emails > Email Campaigns > Can I Send a Mass Email Campaign Using Brilliant Directories?\nCategory: Emails > Email Campaigns\nSection: Overview of Mass Emailing Capabilities\n\nThe built-in Brilliant Directories email newsletter system is designed specifically for emailing active members who have opted in to receive updates, such as monthly community newsletters or billing reminders. It is NOT intended for unsolicited cold outreach or massive third-party blast marketing.",
+      "snippet": "The built-in Brilliant Directories email newsletter system is designed specifically for emailing active members who have opted in to receive updates, such as monthly community newsletters or billing reminders. It is NOT intended for unsolicited cold outreach or massive third-party blast marketing.",
+      "images": [],
+      "source_type": "official_article"
+    },
+    {
+      "chunk_id": "5000558357_sec_1",
+      "article_id": "5000558357",
+      "title": "Emails > Email Campaigns > Can I Send a Mass Email Campaign Using Brilliant Directories?",
+      "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558357-can-i-send-a-mass-email-campaign-using-brilliant-directories-",
+      "category": "Emails > Email Campaigns",
+      "heading": "Recommendations for Large Outreach",
+      "text": "Emails > Email Campaigns > Can I Send a Mass Email Campaign Using Brilliant Directories?\nCategory: Emails > Email Campaigns\nSection: Recommendations for Large Outreach\n\nIf you plan to send cold email campaigns or outreach to tens of thousands of external leads, we strongly advise integrating with dedicated email platforms such as Mailchimp, SendGrid, or ActiveCampaign via our API and Webhooks.",
+      "snippet": "If you plan to send cold email campaigns or outreach to tens of thousands of external leads, we strongly advise integrating with dedicated email platforms such as Mailchimp, SendGrid, or ActiveCampaign via our API and Webhooks.",
+      "images": [],
+      "source_type": "official_article"
+    },
+    {
+      "chunk_id": "5000558363_sec_0",
+      "article_id": "5000558363",
+      "title": "Emails > Email Accounts > Setting Up Domain Email Accounts and MX Records",
+      "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558363-emails-email-accounts",
+      "category": "Emails > Email Accounts",
+      "heading": "Connecting 3rd Party Email Providers",
+      "text": "Emails > Email Accounts > Setting Up Domain Email Accounts and MX Records\nCategory: Emails > Email Accounts\nSection: Connecting 3rd Party Email Providers\n\nYou can connect your custom domain to third-party email providers such as Google Workspace, Microsoft 365, or Zoho. To do this, point your custom domain's MX records to Google Workspace or your chosen provider in your DNS manager or cPanel.",
+      "snippet": "You can connect your custom domain to third-party email providers such as Google Workspace, Microsoft 365, or Zoho. To do this, point your custom domain's MX records to Google Workspace or your chosen provider in your DNS manager or cPanel.",
+      "images": [],
+      "source_type": "official_article"
+    },
+    {
+      "chunk_id": "5000558363_sec_1",
+      "article_id": "5000558363",
+      "title": "Emails > Email Accounts > Setting Up Domain Email Accounts and MX Records",
+      "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558363-emails-email-accounts",
+      "category": "Emails > Email Accounts",
+      "heading": "Webmail vs External Hosting",
+      "text": "Emails > Email Accounts > Setting Up Domain Email Accounts and MX Records\nCategory: Emails > Email Accounts\nSection: Webmail vs External Hosting\n\nBrilliant Directories provides basic default webmail accounts for your admin domain, but professional agencies recommend routing all primary inbox traffic through Google Workspace for superior spam deliverability.",
+      "snippet": "Brilliant Directories provides basic default webmail accounts for your admin domain, but professional agencies recommend routing all primary inbox traffic through Google Workspace for superior spam deliverability.",
+      "images": [],
+      "source_type": "official_article"
+    },
+    {
+      "chunk_id": "5000558373_sec_0",
+      "article_id": "5000558373",
+      "title": "Emails > Email Forwarders > How to Create and Manage Email Forwarders",
+      "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558373-email-forwarders",
+      "category": "Emails > Email Forwarders",
+      "heading": "Creating Email Forwarders",
+      "text": "Emails > Email Forwarders > How to Create and Manage Email Forwarders\nCategory: Emails > Email Forwarders\nSection: Creating Email Forwarders\n\nEmail forwarders allow you to automatically forward incoming emails sent to an address on your domain (e.g. info@yourdirectory.com) to an external personal or team inbox (e.g. yourname@gmail.com) without requiring a separate paid mailbox.",
+      "snippet": "Email forwarders allow you to automatically forward incoming emails sent to an address on your domain (e.g. info@yourdirectory.com) to an external personal or team inbox (e.g. yourname@gmail.com) without requiring a separate paid mailbox.",
+      "images": [],
+      "source_type": "official_article"
+    },
+    {
+      "chunk_id": "5000558373_sec_1",
+      "article_id": "5000558373",
+      "title": "Emails > Email Forwarders > How to Create and Manage Email Forwarders",
+      "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558373-email-forwarders",
+      "category": "Emails > Email Forwarders",
+      "heading": "Setup Instructions",
+      "text": "Emails > Email Forwarders > How to Create and Manage Email Forwarders\nCategory: Emails > Email Forwarders\nSection: Setup Instructions\n\n1. Go to Emails > Email Forwarders in the Admin Dashboard.\n2. Click 'Add New Forwarder'.\n3. Enter the source alias and destination email address.\n4. Click Save.",
+      "snippet": "1. Go to Emails > Email Forwarders in the Admin Dashboard.\n2. Click 'Add New Forwarder'.\n3. Enter the source alias and destination email address.\n4. Click Save.",
+      "images": [],
+      "source_type": "official_article"
+    },
+    {
+      "chunk_id": "5000558389_sec_0",
+      "article_id": "5000558389",
+      "title": "Settings > General Settings > Social Media Tab",
+      "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558389-settings-general-settings-social-media-tab",
+      "category": "Settings > General Settings",
+      "heading": "Social Media Account Links",
+      "text": "Settings > General Settings > Social Media Tab\nCategory: Settings > General Settings\nSection: Social Media Account Links\n\nConfigure links to your company social profiles that appear in the website header, footer, and email notifications.\nSupported platforms: Facebook, Twitter/X, LinkedIn, Instagram, YouTube, Pinterest, TikTok, WhatsApp, and RSS Feed.\n[Screenshot Information: Screenshot showing form fields for Facebook URL, Twitter URL, Instagram URL with social icons.]",
+      "snippet": "Configure links to your company social profiles that appear in the website header, footer, and email notifications.\nSupported platforms: Facebook, Twitter/X, LinkedIn, Instagram, YouTube, Pinterest, TikTok, WhatsApp, and RSS Feed.",
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/social_media_tab.png",
+          "alt_text": "Social Media Tab Settings",
+          "caption": "General Settings Social Media tab inputs",
+          "section_context": "Settings > General Settings > Social Media tab.",
+          "visual_description": "Screenshot showing form fields for Facebook URL, Twitter URL, Instagram URL with social icons."
+        }
+      ],
+      "source_type": "official_article"
+    },
+    {
+      "chunk_id": "5000558389_sec_1",
+      "article_id": "5000558389",
+      "title": "Settings > General Settings > Social Media Tab",
+      "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558389-settings-general-settings-social-media-tab",
+      "category": "Settings > General Settings",
+      "heading": "How to Configure",
+      "text": "Settings > General Settings > Social Media Tab\nCategory: Settings > General Settings\nSection: How to Configure\n\n1. Go to Settings > General Settings.\n2. Click on the 'Social Media' tab.\n3. Paste the full URLs for each respective profile (e.g. https://facebook.com/yourpage).\n4. Click 'Save Changes'. The icons will immediately update across your live site.",
+      "snippet": "1. Go to Settings > General Settings.\n2. Click on the 'Social Media' tab.\n3. Paste the full URLs for each respective profile (e.g. https://facebook.com/yourpage).\n4. Click 'Save Changes'. The icons will immediately update across your live site.",
+      "images": [],
+      "source_type": "official_article"
+    },
+    {
+      "chunk_id": "5000558401_sec_0",
+      "article_id": "5000558401",
+      "title": "My Members > Member Categories > How to Import Categories via CSV File",
+      "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558401-how-to-import-categories-via-csv-file",
+      "category": "My Members > Member Categories",
+      "heading": "Category Structure Overview",
+      "text": "My Members > Member Categories > How to Import Categories via CSV File\nCategory: My Members > Member Categories\nSection: Category Structure Overview\n\nBrilliant Directories supports a 3-tier category hierarchy:\n1. Top-Level Category (e.g. Healthcare, Legal, Home Services)\n2. Sub-Category (e.g. Dentistry, Cardiology)\n3. Sub-Sub-Category (e.g. Pediatric Dentistry, Orthodontics)\nEach member can be assigned 1 Top-Level category and multiple Sub or Sub-Sub categories.\n[Screenshot Information: Screenshot of Member Categories screen showing top action bar with 'Add Top Category' and orange 'Import Categories' buttons.]",
+      "snippet": "Brilliant Directories supports a 3-tier category hierarchy:\n1. Top-Level Category (e.g. Healthcare, Legal, Home Services)\n2. Sub-Category (e.g. Dentistry, Cardiology)\n3. Sub-Sub-Category (e.g. Pediatric Dentistry, Orthodontics)\nEach member can be assigned 1 Top-Level category and multiple Sub or Sub",
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/import_categories_button.png",
+          "alt_text": "Import Categories via CSV button",
+          "caption": "Member Categories admin screen with Import button",
+          "section_context": "Navigate to My Members > Member Categories, click orange Import Categories button.",
+          "visual_description": "Screenshot of Member Categories screen showing top action bar with 'Add Top Category' and orange 'Import Categories' buttons."
+        }
+      ],
+      "source_type": "official_article"
+    },
+    {
+      "chunk_id": "5000558401_sec_1",
+      "article_id": "5000558401",
+      "title": "My Members > Member Categories > How to Import Categories via CSV File",
+      "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558401-how-to-import-categories-via-csv-file",
+      "category": "My Members > Member Categories",
+      "heading": "Importing Categories with CSV",
+      "text": "My Members > Member Categories > How to Import Categories via CSV File\nCategory: My Members > Member Categories\nSection: Importing Categories with CSV\n\n1. Go to My Members > Member Categories.\n2. Click the orange 'Import Categories' button at the top right.\n3. Download the Sample CSV Template to ensure correct column headers: 'Top Level Category', 'Sub Level Category', and 'Sub-Sub Level Category'.\n4. Upload your prepared CSV file. BD will automatically deduplicate and create the parent-child relationships.\n[Screenshot Information: Screenshot of Member Categories screen showing top action bar with 'Add Top Category' and orange 'Import Categories' buttons.]",
+      "snippet": "1. Go to My Members > Member Categories.\n2. Click the orange 'Import Categories' button at the top right.\n3. Download the Sample CSV Template to ensure correct column headers: 'Top Level Category', 'Sub Level Category', and 'Sub-Sub Level Category'.\n4. Upload your prepared CSV file. BD will automati",
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/import_categories_button.png",
+          "alt_text": "Import Categories via CSV button",
+          "caption": "Member Categories admin screen with Import button",
+          "section_context": "Navigate to My Members > Member Categories, click orange Import Categories button.",
+          "visual_description": "Screenshot of Member Categories screen showing top action bar with 'Add Top Category' and orange 'Import Categories' buttons."
+        }
+      ],
+      "source_type": "official_article"
+    },
+    {
+      "chunk_id": "5000682855_sec_0",
+      "article_id": "5000682855",
+      "title": "Finance > Payment Gateways > How to Set Up Stripe Payment Gateway",
+      "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000682855-how-to-set-up-stripe-payment-gateway",
+      "category": "Finance > Payment Gateways",
+      "heading": "Overview of Stripe Integration",
+      "text": "Finance > Payment Gateways > How to Set Up Stripe Payment Gateway\nCategory: Finance > Payment Gateways\nSection: Overview of Stripe Integration\n\nBrilliant Directories natively integrates with Stripe to process credit card payments, recurring membership subscriptions, paid lead purchases, and digital product sales. It fully supports Stripe SCA (Strong Customer Authentication) and 3D Secure 2 compliance.\n[Screenshot Information: Screenshot showing Finance > Payment Gateways screen with Stripe selected, Publishable Key field, Secret Key field, and Test Mode toggle button.]",
+      "snippet": "Brilliant Directories natively integrates with Stripe to process credit card payments, recurring membership subscriptions, paid lead purchases, and digital product sales. It fully supports Stripe SCA (Strong Customer Authentication) and 3D Secure 2 compliance.",
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/stripe_settings_bd.png",
+          "alt_text": "Finance Payment Gateways Stripe Settings Screen",
+          "caption": "Admin Dashboard - Finance > Payment Gateways configuration page",
+          "section_context": "Navigate in your Admin Dashboard to Finance > Payment Gateways. Select Stripe in dropdown.",
+          "visual_description": "Screenshot showing Finance > Payment Gateways screen with Stripe selected, Publishable Key field, Secret Key field, and Test Mode toggle button."
+        }
+      ],
+      "source_type": "official_article"
+    },
+    {
+      "chunk_id": "5000682855_sec_1",
+      "article_id": "5000682855",
+      "title": "Finance > Payment Gateways > How to Set Up Stripe Payment Gateway",
+      "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000682855-how-to-set-up-stripe-payment-gateway",
+      "category": "Finance > Payment Gateways",
+      "heading": "Step-by-Step Stripe Setup",
+      "text": "Finance > Payment Gateways > How to Set Up Stripe Payment Gateway\nCategory: Finance > Payment Gateways\nSection: Step-by-Step Stripe Setup\n\n1. Navigate in your Admin Dashboard to Finance > Payment Gateways.\n2. In the Gateway Dropdown, select 'Stripe'.\n3. Click the blue 'Connect with Stripe' button or manually input your Stripe Publishable Key and Secret Key.\n4. Ensure your Stripe Webhook endpoint is copied from BD into your Stripe Dashboard at Developers > Webhooks (endpoint: https://yourdomain.com/stripe_webhook.php).\n5. Set Webhook events to listen for: 'invoice.payment_succeeded', 'customer.subscription.deleted', and 'charge.refunded'.\n[Screenshot Information: Screenshot showing Finance > Payment Gateways screen with Stripe selected, Publishable Key field, Secret Key field, and Test Mode toggle button.]",
+      "snippet": "1. Navigate in your Admin Dashboard to Finance > Payment Gateways.\n2. In the Gateway Dropdown, select 'Stripe'.\n3. Click the blue 'Connect with Stripe' button or manually input your Stripe Publishable Key and Secret Key.\n4. Ensure your Stripe Webhook endpoint is copied from BD into your Stripe Dashb",
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/stripe_settings_bd.png",
+          "alt_text": "Finance Payment Gateways Stripe Settings Screen",
+          "caption": "Admin Dashboard - Finance > Payment Gateways configuration page",
+          "section_context": "Navigate in your Admin Dashboard to Finance > Payment Gateways. Select Stripe in dropdown.",
+          "visual_description": "Screenshot showing Finance > Payment Gateways screen with Stripe selected, Publishable Key field, Secret Key field, and Test Mode toggle button."
+        }
+      ],
+      "source_type": "official_article"
+    },
+    {
+      "chunk_id": "5000682855_sec_2",
+      "article_id": "5000682855",
+      "title": "Finance > Payment Gateways > How to Set Up Stripe Payment Gateway",
+      "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000682855-how-to-set-up-stripe-payment-gateway",
+      "category": "Finance > Payment Gateways",
+      "heading": "Supported Currencies and Test Mode",
+      "text": "Finance > Payment Gateways > How to Set Up Stripe Payment Gateway\nCategory: Finance > Payment Gateways\nSection: Supported Currencies and Test Mode\n\nStripe supports over 135 currencies. You can toggle 'Test Mode' on in Finance > Payment Gateways to test signup flows with Stripe 4242 test card numbers before switching to Live Mode.",
+      "snippet": "Stripe supports over 135 currencies. You can toggle 'Test Mode' on in Finance > Payment Gateways to test signup flows with Stripe 4242 test card numbers before switching to Live Mode.",
+      "images": [],
+      "source_type": "official_article"
+    },
+    {
+      "chunk_id": "5000684120_sec_0",
+      "article_id": "5000684120",
+      "title": "Finance > Transaction Management > How to Manage Member Refunds and Cancellations",
+      "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000684120-how-to-manage-member-refunds-and-cancellations",
+      "category": "Finance > Transaction Management",
+      "heading": "Processing Refunds in Admin Dashboard",
+      "text": "Finance > Transaction Management > How to Manage Member Refunds and Cancellations\nCategory: Finance > Transaction Management\nSection: Processing Refunds in Admin Dashboard\n\nTo refund a transaction:\n1. Go to Finance > Transaction History.\n2. Locate the transaction using the member search or invoice ID.\n3. Click the 'Action' dropdown on the right side and select 'Refund Transaction'.\n4. You can choose Full Refund or Partial Refund by entering a custom amount.\n5. When processed, Brilliant Directories calls Stripe/gateway API to refund the card and automatically generates a negative credit note invoice.\n[Screenshot Information: Screenshot of Transaction History table with highlighted Action button showing dropdown items: View Invoice, Send Receipt, and Refund Transaction.]",
+      "snippet": "To refund a transaction:\n1. Go to Finance > Transaction History.\n2. Locate the transaction using the member search or invoice ID.\n3. Click the 'Action' dropdown on the right side and select 'Refund Transaction'.\n4. You can choose Full Refund or Partial Refund by entering a custom amount.\n5. When pro",
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/refund_modal.png",
+          "alt_text": "Transaction History Action Refund Modal",
+          "caption": "Refund confirmation dialog with full and partial refund options",
+          "section_context": "Locate transaction in Finance > Transaction History, click Action > Refund Transaction.",
+          "visual_description": "Screenshot of Transaction History table with highlighted Action button showing dropdown items: View Invoice, Send Receipt, and Refund Transaction."
+        }
+      ],
+      "source_type": "official_article"
+    },
+    {
+      "chunk_id": "5000684120_sec_1",
+      "article_id": "5000684120",
+      "title": "Finance > Transaction Management > How to Manage Member Refunds and Cancellations",
+      "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000684120-how-to-manage-member-refunds-and-cancellations",
+      "category": "Finance > Transaction Management",
+      "heading": "Handling Member Cancellations",
+      "text": "Finance > Transaction Management > How to Manage Member Refunds and Cancellations\nCategory: Finance > Transaction Management\nSection: Handling Member Cancellations\n\nTo cancel a recurring subscription without refunding prior payments:\n1. Go to My Members > Search Members.\n2. Click 'Quick Edit' on the member record.\n3. Change Status from 'Active' to 'Cancelled' or 'Past Due'.\n4. Toggle 'Cancel Gateway Subscription' to stop future automated recurring charges in Stripe immediately.",
+      "snippet": "To cancel a recurring subscription without refunding prior payments:\n1. Go to My Members > Search Members.\n2. Click 'Quick Edit' on the member record.\n3. Change Status from 'Active' to 'Cancelled' or 'Past Due'.\n4. Toggle 'Cancel Gateway Subscription' to stop future automated recurring charges in St",
+      "images": [],
+      "source_type": "official_article"
+    },
+    {
+      "chunk_id": "5000684120_sec_2",
+      "article_id": "5000684120",
+      "title": "Finance > Transaction Management > How to Manage Member Refunds and Cancellations",
+      "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000684120-how-to-manage-member-refunds-and-cancellations",
+      "category": "Finance > Transaction Management",
+      "heading": "Policy & Authorization Guidelines",
+      "text": "Finance > Transaction Management > How to Manage Member Refunds and Cancellations\nCategory: Finance > Transaction Management\nSection: Policy & Authorization Guidelines\n\nStandard platform policy: Support staff must verify the client account ownership before executing refunds above $100. Disputed chargebacks must be resolved via the payment gateway portal directly.",
+      "snippet": "Standard platform policy: Support staff must verify the client account ownership before executing refunds above $100. Disputed chargebacks must be resolved via the payment gateway portal directly.",
+      "images": [],
+      "source_type": "official_article"
+    },
+    {
+      "chunk_id": "5000686410_sec_0",
+      "article_id": "5000686410",
+      "title": "Leads > Lead Settings > How to Set Up Lead Generation and Auto-Matching",
+      "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000686410-how-to-set-up-lead-generation-and-auto-matching",
+      "category": "Leads > Lead Settings",
+      "heading": "Automated Lead Matching System",
+      "text": "Leads > Lead Settings > How to Set Up Lead Generation and Auto-Matching\nCategory: Leads > Lead Settings\nSection: Automated Lead Matching System\n\nBrilliant Directories includes an automated lead engine that receives visitor inquiries and matches them to suitable professionals based on Category and Geographic Location (City, Zip Code, or Radius).\nAdmins can choose between Free Leads, Paid Leads (where members pay to purchase the lead contact details), or Preview Leads.\n[Screenshot Information: Screenshot of Lead Settings page showing dropdown options for Auto-Match mode and numeric input field for Max Members per Lead.]",
+      "snippet": "Brilliant Directories includes an automated lead engine that receives visitor inquiries and matches them to suitable professionals based on Category and Geographic Location (City, Zip Code, or Radius).\nAdmins can choose between Free Leads, Paid Leads (where members pay to purchase the lead contact d",
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/lead_settings_screen.png",
+          "alt_text": "Lead Settings Auto-Match Configuration",
+          "caption": "Lead Settings control panel",
+          "section_context": "Go to Leads > Lead Settings, toggle Auto-Match Leads.",
+          "visual_description": "Screenshot of Lead Settings page showing dropdown options for Auto-Match mode and numeric input field for Max Members per Lead."
+        }
+      ],
+      "source_type": "official_article"
+    },
+    {
+      "chunk_id": "5000686410_sec_1",
+      "article_id": "5000686410",
+      "title": "Leads > Lead Settings > How to Set Up Lead Generation and Auto-Matching",
+      "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000686410-how-to-set-up-lead-generation-and-auto-matching",
+      "category": "Leads > Lead Settings",
+      "heading": "Configuring Lead Auto-Match Rules",
+      "text": "Leads > Lead Settings > How to Set Up Lead Generation and Auto-Matching\nCategory: Leads > Lead Settings\nSection: Configuring Lead Auto-Match Rules\n\n1. Navigate to Leads > Lead Settings.\n2. Under 'Auto-Match Leads', choose 'Auto-Match and Auto-Send' or 'Admin Manually Approves Leads Before Sending'.\n3. Configure Maximum Matches: Set how many members receive each lead (e.g., maximum 3 professionals).\n4. In 'Lead Price', define default purchase cost per lead or override by membership plan.\n[Screenshot Information: Screenshot of Lead Settings page showing dropdown options for Auto-Match mode and numeric input field for Max Members per Lead.]",
+      "snippet": "1. Navigate to Leads > Lead Settings.\n2. Under 'Auto-Match Leads', choose 'Auto-Match and Auto-Send' or 'Admin Manually Approves Leads Before Sending'.\n3. Configure Maximum Matches: Set how many members receive each lead (e.g., maximum 3 professionals).\n4. In 'Lead Price', define default purchase co",
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/lead_settings_screen.png",
+          "alt_text": "Lead Settings Auto-Match Configuration",
+          "caption": "Lead Settings control panel",
+          "section_context": "Go to Leads > Lead Settings, toggle Auto-Match Leads.",
+          "visual_description": "Screenshot of Lead Settings page showing dropdown options for Auto-Match mode and numeric input field for Max Members per Lead."
+        }
+      ],
+      "source_type": "official_article"
+    },
+    {
+      "chunk_id": "5000691500_sec_0",
+      "article_id": "5000691500",
+      "title": "Developer Tools > API & Webhooks > Webhooks and API Integration Guide",
+      "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000691500-webhooks-and-api-integration-guide",
+      "category": "Developer Tools > API & Webhooks",
+      "heading": "BD API & Webhook Capabilities",
+      "text": "Developer Tools > API & Webhooks > Webhooks and API Integration Guide\nCategory: Developer Tools > API & Webhooks\nSection: BD API & Webhook Capabilities\n\nBrilliant Directories provides a REST API and real-time outbound webhooks to sync data with external CRM systems (HubSpot, Salesforce, Zapier, Make).\nSupported Webhook events:\n- Member Signup / Member Updated / Member Deleted\n- New Form Submission (Contact Us, Lead Inquiries)\n- Payment Received / Recurring Charge Failed\n[Screenshot Information: Screenshot of Developer Tools > Webhooks showing list of active endpoints and 'Test Webhook Payload' button.]",
+      "snippet": "Brilliant Directories provides a REST API and real-time outbound webhooks to sync data with external CRM systems (HubSpot, Salesforce, Zapier, Make).\nSupported Webhook events:\n- Member Signup / Member Updated / Member Deleted\n- New Form Submission (Contact Us, Lead Inquiries)\n- Payment Received / Re",
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/webhooks_admin.png",
+          "alt_text": "Developer Tools Webhooks Configuration",
+          "caption": "Webhooks manager screen",
+          "section_context": "Go to Developer Tools > Webhooks, click Add New Webhook.",
+          "visual_description": "Screenshot of Developer Tools > Webhooks showing list of active endpoints and 'Test Webhook Payload' button."
+        }
+      ],
+      "source_type": "official_article"
+    },
+    {
+      "chunk_id": "5000691500_sec_1",
+      "article_id": "5000691500",
+      "title": "Developer Tools > API & Webhooks > Webhooks and API Integration Guide",
+      "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000691500-webhooks-and-api-integration-guide",
+      "category": "Developer Tools > API & Webhooks",
+      "heading": "Setting Up Outbound Webhooks",
+      "text": "Developer Tools > API & Webhooks > Webhooks and API Integration Guide\nCategory: Developer Tools > API & Webhooks\nSection: Setting Up Outbound Webhooks\n\n1. Go to Developer Tools > Webhooks.\n2. Click 'Add New Webhook'.\n3. Select Trigger Event (e.g. 'member_signup').\n4. Enter Target Webhook URL (e.g. Zapier or webhook receiver).\n5. Test payload: BD sends a JSON POST request containing all user profile fields.\n[Screenshot Information: Screenshot of Developer Tools > Webhooks showing list of active endpoints and 'Test Webhook Payload' button.]",
+      "snippet": "1. Go to Developer Tools > Webhooks.\n2. Click 'Add New Webhook'.\n3. Select Trigger Event (e.g. 'member_signup').\n4. Enter Target Webhook URL (e.g. Zapier or webhook receiver).\n5. Test payload: BD sends a JSON POST request containing all user profile fields.",
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/webhooks_admin.png",
+          "alt_text": "Developer Tools Webhooks Configuration",
+          "caption": "Webhooks manager screen",
+          "section_context": "Go to Developer Tools > Webhooks, click Add New Webhook.",
+          "visual_description": "Screenshot of Developer Tools > Webhooks showing list of active endpoints and 'Test Webhook Payload' button."
+        }
+      ],
+      "source_type": "official_article"
+    }
+  ]
+}

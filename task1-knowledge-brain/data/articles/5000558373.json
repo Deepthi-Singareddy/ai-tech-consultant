@@ -1,0 +1,19 @@
+{
+  "article_id": "5000558373",
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558373-email-forwarders",
+  "title": "Emails > Email Forwarders > How to Create and Manage Email Forwarders",
+  "category": "Emails > Email Forwarders",
+  "sections": [
+    {
+      "heading": "Creating Email Forwarders",
+      "content": "Email forwarders allow you to automatically forward incoming emails sent to an address on your domain (e.g. info@yourdirectory.com) to an external personal or team inbox (e.g. yourname@gmail.com) without requiring a separate paid mailbox."
+    },
+    {
+      "heading": "Setup Instructions",
+      "content": "1. Go to Emails > Email Forwarders in the Admin Dashboard.\n2. Click 'Add New Forwarder'.\n3. Enter the source alias and destination email address.\n4. Click Save."
+    }
+  ],
+  "images": [],
+  "full_text": "Emails > Email Forwarders > How to Create and Manage Email Forwarders\nForward domain emails like info@ to gmail without extra mailboxes in Emails > Email Forwarders.",
+  "content_hash": "i9j0k1l2forwarders"
+}

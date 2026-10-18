@@ -1,0 +1,67 @@
+[
+  {
+    "category": "HOW_TO",
+    "consecutiveUneditedApprovals": 0,
+    "isAutonomousActive": false,
+    "isSafetyBlacklisted": false,
+    "totalApproved": 80,
+    "totalEdited": 4,
+    "totalRejected": 0,
+    "lastResetReason": "Human modified draft (75.8% edit distance)",
+    "lastResetAt": "2026-10-18T05:07:20.879Z"
+  },
+  {
+    "category": "TROUBLESHOOTING",
+    "consecutiveUneditedApprovals": 0,
+    "isAutonomousActive": false,
+    "isSafetyBlacklisted": false,
+    "totalApproved": 0,
+    "totalEdited": 0,
+    "totalRejected": 0
+  },
+  {
+    "category": "PROJECT_REQUEST",
+    "consecutiveUneditedApprovals": 0,
+    "isAutonomousActive": false,
+    "isSafetyBlacklisted": false,
+    "totalApproved": 0,
+    "totalEdited": 0,
+    "totalRejected": 0
+  },
+  {
+    "category": "REFUND_CANCELLATION",
+    "consecutiveUneditedApprovals": 100,
+    "isAutonomousActive": false,
+    "isSafetyBlacklisted": true,
+    "totalApproved": 100,
+    "totalEdited": 0,
+    "totalRejected": 0
+  },
+  {
+    "category": "COMPLAINT",
+    "consecutiveUneditedApprovals": 0,
+    "isAutonomousActive": false,
+    "isSafetyBlacklisted": true,
+    "totalApproved": 0,
+    "totalEdited": 0,
+    "totalRejected": 0
+  },
+  {
+    "category": "QUOTE_REQUEST",
+    "consecutiveUneditedApprovals": 0,
+    "isAutonomousActive": false,
+    "isSafetyBlacklisted": false,
+    "totalApproved": 0,
+    "totalEdited": 0,
+    "totalRejected": 0
+  },
+  {
+    "category": "FOLLOW_UP",
+    "consecutiveUneditedApprovals": 0,
+    "isAutonomousActive": false,
+    "isSafetyBlacklisted": false,
+    "totalApproved": 0,
+    "totalEdited": 0,
+    "totalRejected": 0
+  }
+]

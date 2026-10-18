@@ -1,0 +1,19 @@
+{
+  "article_id": "5000558357",
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558357-can-i-send-a-mass-email-campaign-using-brilliant-directories-",
+  "title": "Emails > Email Campaigns > Can I Send a Mass Email Campaign Using Brilliant Directories?",
+  "category": "Emails > Email Campaigns",
+  "sections": [
+    {
+      "heading": "Overview of Mass Emailing Capabilities",
+      "content": "The built-in Brilliant Directories email newsletter system is designed specifically for emailing active members who have opted in to receive updates, such as monthly community newsletters or billing reminders. It is NOT intended for unsolicited cold outreach or massive third-party blast marketing."
+    },
+    {
+      "heading": "Recommendations for Large Outreach",
+      "content": "If you plan to send cold email campaigns or outreach to tens of thousands of external leads, we strongly advise integrating with dedicated email platforms such as Mailchimp, SendGrid, or ActiveCampaign via our API and Webhooks."
+    }
+  ],
+  "images": [],
+  "full_text": "Emails > Email Campaigns > Can I Send a Mass Email Campaign Using Brilliant Directories?\nBuilt-in email system is for opted-in active members. For cold campaigns, use Mailchimp or SendGrid.",
+  "content_hash": "g7h8i9j0massemail"
+}

@@ -1,0 +1,31 @@
+{
+  "article_id": "5000684120",
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000684120-how-to-manage-member-refunds-and-cancellations",
+  "title": "Finance > Transaction Management > How to Manage Member Refunds and Cancellations",
+  "category": "Finance > Transaction Management",
+  "sections": [
+    {
+      "heading": "Processing Refunds in Admin Dashboard",
+      "content": "To refund a transaction:\n1. Go to Finance > Transaction History.\n2. Locate the transaction using the member search or invoice ID.\n3. Click the 'Action' dropdown on the right side and select 'Refund Transaction'.\n4. You can choose Full Refund or Partial Refund by entering a custom amount.\n5. When processed, Brilliant Directories calls Stripe/gateway API to refund the card and automatically generates a negative credit note invoice."
+    },
+    {
+      "heading": "Handling Member Cancellations",
+      "content": "To cancel a recurring subscription without refunding prior payments:\n1. Go to My Members > Search Members.\n2. Click 'Quick Edit' on the member record.\n3. Change Status from 'Active' to 'Cancelled' or 'Past Due'.\n4. Toggle 'Cancel Gateway Subscription' to stop future automated recurring charges in Stripe immediately."
+    },
+    {
+      "heading": "Policy & Authorization Guidelines",
+      "content": "Standard platform policy: Support staff must verify the client account ownership before executing refunds above $100. Disputed chargebacks must be resolved via the payment gateway portal directly."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/refund_modal.png",
+      "alt_text": "Transaction History Action Refund Modal",
+      "caption": "Refund confirmation dialog with full and partial refund options",
+      "section_context": "Locate transaction in Finance > Transaction History, click Action > Refund Transaction.",
+      "visual_description": "Screenshot of Transaction History table with highlighted Action button showing dropdown items: View Invoice, Send Receipt, and Refund Transaction."
+    }
+  ],
+  "full_text": "Finance > Transaction Management > How to Manage Member Refunds and Cancellations\nAdmin can refund full or partial amounts via Finance > Transaction History.",
+  "content_hash": "b2c3d4e5refund"
+}

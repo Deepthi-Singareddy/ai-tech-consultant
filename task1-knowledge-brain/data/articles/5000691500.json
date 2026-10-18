@@ -1,0 +1,27 @@
+{
+  "article_id": "5000691500",
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000691500-webhooks-and-api-integration-guide",
+  "title": "Developer Tools > API & Webhooks > Webhooks and API Integration Guide",
+  "category": "Developer Tools > API & Webhooks",
+  "sections": [
+    {
+      "heading": "BD API & Webhook Capabilities",
+      "content": "Brilliant Directories provides a REST API and real-time outbound webhooks to sync data with external CRM systems (HubSpot, Salesforce, Zapier, Make).\nSupported Webhook events:\n- Member Signup / Member Updated / Member Deleted\n- New Form Submission (Contact Us, Lead Inquiries)\n- Payment Received / Recurring Charge Failed"
+    },
+    {
+      "heading": "Setting Up Outbound Webhooks",
+      "content": "1. Go to Developer Tools > Webhooks.\n2. Click 'Add New Webhook'.\n3. Select Trigger Event (e.g. 'member_signup').\n4. Enter Target Webhook URL (e.g. Zapier or webhook receiver).\n5. Test payload: BD sends a JSON POST request containing all user profile fields."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/webhooks_admin.png",
+      "alt_text": "Developer Tools Webhooks Configuration",
+      "caption": "Webhooks manager screen",
+      "section_context": "Go to Developer Tools > Webhooks, click Add New Webhook.",
+      "visual_description": "Screenshot of Developer Tools > Webhooks showing list of active endpoints and 'Test Webhook Payload' button."
+    }
+  ],
+  "full_text": "Developer Tools > API & Webhooks > Webhooks and API Integration Guide\nSync member events with Zapier, CRM, or external endpoints via JSON POST webhooks.",
+  "content_hash": "e5f6g7h8webhooks"
+}

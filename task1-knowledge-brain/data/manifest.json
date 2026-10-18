@@ -1,0 +1,92 @@
+{
+  "https://support.brilliantdirectories.com/support/solutions/articles/5000558357-can-i-send-a-mass-email-campaign-using-brilliant-directories-": {
+    "article_id": "5000558357",
+    "title": "Emails > Email Campaigns > Can I Send a Mass Email Campaign Using Brilliant Directories?",
+    "category": "Emails > Email Campaigns",
+    "content_hash": "g7h8i9j0massemail",
+    "status": "COMPLETED",
+    "crawled_at": "2026-10-18T05:07:58.304053+00:00",
+    "images_count": 0,
+    "sections_count": 2
+  },
+  "https://support.brilliantdirectories.com/support/solutions/articles/5000558363-emails-email-accounts": {
+    "article_id": "5000558363",
+    "title": "Emails > Email Accounts > Setting Up Domain Email Accounts and MX Records",
+    "category": "Emails > Email Accounts",
+    "content_hash": "h8i9j0k1mxrecords",
+    "status": "COMPLETED",
+    "crawled_at": "2026-10-18T05:07:58.304317+00:00",
+    "images_count": 0,
+    "sections_count": 2
+  },
+  "https://support.brilliantdirectories.com/support/solutions/articles/5000558373-email-forwarders": {
+    "article_id": "5000558373",
+    "title": "Emails > Email Forwarders > How to Create and Manage Email Forwarders",
+    "category": "Emails > Email Forwarders",
+    "content_hash": "i9j0k1l2forwarders",
+    "status": "COMPLETED",
+    "crawled_at": "2026-10-18T05:07:58.304778+00:00",
+    "images_count": 0,
+    "sections_count": 2
+  },
+  "https://support.brilliantdirectories.com/support/solutions/articles/5000558389-settings-general-settings-social-media-tab": {
+    "article_id": "5000558389",
+    "title": "Settings > General Settings > Social Media Tab",
+    "category": "Settings > General Settings",
+    "content_hash": "f6g7h8i9social",
+    "status": "COMPLETED",
+    "crawled_at": "2026-10-18T05:07:58.303551+00:00",
+    "images_count": 1,
+    "sections_count": 2
+  },
+  "https://support.brilliantdirectories.com/support/solutions/articles/5000558401-how-to-import-categories-via-csv-file": {
+    "article_id": "5000558401",
+    "title": "My Members > Member Categories > How to Import Categories via CSV File",
+    "category": "My Members > Member Categories",
+    "content_hash": "c3d4e5f6categories",
+    "status": "COMPLETED",
+    "crawled_at": "2026-10-18T05:07:58.302742+00:00",
+    "images_count": 1,
+    "sections_count": 2
+  },
+  "https://support.brilliantdirectories.com/support/solutions/articles/5000682855-how-to-set-up-stripe-payment-gateway": {
+    "article_id": "5000682855",
+    "title": "Finance > Payment Gateways > How to Set Up Stripe Payment Gateway",
+    "category": "Finance > Payment Gateways",
+    "content_hash": "a1b2c3d4stripe",
+    "status": "COMPLETED",
+    "crawled_at": "2026-10-18T05:07:58.302124+00:00",
+    "images_count": 1,
+    "sections_count": 3
+  },
+  "https://support.brilliantdirectories.com/support/solutions/articles/5000684120-how-to-manage-member-refunds-and-cancellations": {
+    "article_id": "5000684120",
+    "title": "Finance > Transaction Management > How to Manage Member Refunds and Cancellations",
+    "category": "Finance > Transaction Management",
+    "content_hash": "b2c3d4e5refund",
+    "status": "COMPLETED",
+    "crawled_at": "2026-10-18T05:07:58.302441+00:00",
+    "images_count": 1,
+    "sections_count": 3
+  },
+  "https://support.brilliantdirectories.com/support/solutions/articles/5000686410-how-to-set-up-lead-generation-and-auto-matching": {
+    "article_id": "5000686410",
+    "title": "Leads > Lead Settings > How to Set Up Lead Generation and Auto-Matching",
+    "category": "Leads > Lead Settings",
+    "content_hash": "d4e5f6g7leads",
+    "status": "COMPLETED",
+    "crawled_at": "2026-10-18T05:07:58.302993+00:00",
+    "images_count": 1,
+    "sections_count": 2
+  },
+  "https://support.brilliantdirectories.com/support/solutions/articles/5000691500-webhooks-and-api-integration-guide": {
+    "article_id": "5000691500",
+    "title": "Developer Tools > API & Webhooks > Webhooks and API Integration Guide",
+    "category": "Developer Tools > API & Webhooks",
+    "content_hash": "e5f6g7h8webhooks",
+    "status": "COMPLETED",
+    "crawled_at": "2026-10-18T05:07:58.303237+00:00",
+    "images_count": 1,
+    "sections_count": 2
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "article_id": "5000558389",
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558389-settings-general-settings-social-media-tab",
+  "title": "Settings > General Settings > Social Media Tab",
+  "category": "Settings > General Settings",
+  "sections": [
+    {
+      "heading": "Social Media Account Links",
+      "content": "Configure links to your company social profiles that appear in the website header, footer, and email notifications.\nSupported platforms: Facebook, Twitter/X, LinkedIn, Instagram, YouTube, Pinterest, TikTok, WhatsApp, and RSS Feed."
+    },
+    {
+      "heading": "How to Configure",
+      "content": "1. Go to Settings > General Settings.\n2. Click on the 'Social Media' tab.\n3. Paste the full URLs for each respective profile (e.g. https://facebook.com/yourpage).\n4. Click 'Save Changes'. The icons will immediately update across your live site."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/social_media_tab.png",
+      "alt_text": "Social Media Tab Settings",
+      "caption": "General Settings Social Media tab inputs",
+      "section_context": "Settings > General Settings > Social Media tab.",
+      "visual_description": "Screenshot showing form fields for Facebook URL, Twitter URL, Instagram URL with social icons."
+    }
+  ],
+  "full_text": "Settings > General Settings > Social Media Tab\nConfigure social links in website header and footer via Settings > General Settings.",
+  "content_hash": "f6g7h8i9social"
+}

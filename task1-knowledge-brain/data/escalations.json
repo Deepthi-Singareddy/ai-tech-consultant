@@ -1,0 +1,512 @@
+{
+  "ESC-523899B1": {
+    "id": "ESC-523899B1",
+    "query": "What is the internal quantum algorithm used for warp drive navigation?",
+    "timestamp": "2026-10-18T04:26:26.196792+00:00",
+    "reason": "Low retrieval confidence (0.56 < 0.65) or missing documentation",
+    "status": "pending",
+    "expert_answer": null,
+    "resolved_by": null,
+    "resolved_at": null
+  },
+  "ESC-F5BAB973": {
+    "id": "ESC-F5BAB973",
+    "query": "How do we integrate custom biometric fingerprint scanner at member login?",
+    "timestamp": "2026-10-18T04:26:26.221875+00:00",
+    "reason": "Low retrieval confidence (0.55 < 0.65) or missing documentation",
+    "status": "resolved",
+    "expert_answer": "Biometric fingerprint scanning requires our custom WebAuthn FIDO2 Add-on available via developer settings.",
+    "resolved_by": "Senior Security Engineer",
+    "resolved_at": "2026-10-18T04:26:26.223332+00:00"
+  },
+  "ESC-BA193F92": {
+    "id": "ESC-BA193F92",
+    "query": "How do I process a full or partial refund for a member?",
+    "timestamp": "2026-10-18T04:28:16.767119+00:00",
+    "reason": "Low retrieval confidence (0.61 < 0.65) or missing documentation",
+    "status": "pending",
+    "expert_answer": null,
+    "resolved_by": null,
+    "resolved_at": null
+  },
+  "ESC-A376EDD1": {
+    "id": "ESC-A376EDD1",
+    "query": "What is the three-tier category hierarchy structure in Brilliant Directories?",
+    "timestamp": "2026-10-18T04:28:16.772885+00:00",
+    "reason": "Low retrieval confidence (0.62 < 0.65) or missing documentation",
+    "status": "pending",
+    "expert_answer": null,
+    "resolved_by": null,
+    "resolved_at": null
+  },
+  "ESC-E69A600F": {
+    "id": "ESC-E69A600F",
+    "query": "Can I charge members to purchase incoming client leads?",
+    "timestamp": "2026-10-18T04:28:16.776887+00:00",
+    "reason": "Low retrieval confidence (0.63 < 0.65) or missing documentation",
+    "status": "pending",
+    "expert_answer": null,
+    "resolved_by": null,
+    "resolved_at": null
+  },
+  "ESC-965E9557": {
+    "id": "ESC-965E9557",
+    "query": "How do I set up webhooks to push new member registrations to HubSpot CRM or Zapier?",
+    "timestamp": "2026-10-18T04:28:16.779507+00:00",
+    "reason": "Low retrieval confidence (0.64 < 0.65) or missing documentation",
+    "status": "pending",
+    "expert_answer": null,
+    "resolved_by": null,
+    "resolved_at": null
+  },
+  "ESC-D9955591": {
+    "id": "ESC-D9955591",
+    "query": "Which webhook trigger events are natively supported?",
+    "timestamp": "2026-10-18T04:28:16.781910+00:00",
+    "reason": "Low retrieval confidence (0.56 < 0.65) or missing documentation",
+    "status": "pending",
+    "expert_answer": null,
+    "resolved_by": null,
+    "resolved_at": null
+  },
+  "ESC-3444C83D": {
+    "id": "ESC-3444C83D",
+    "query": "Can I send mass cold email outreach campaigns through Brilliant Directories built-in system?",
+    "timestamp": "2026-10-18T04:28:16.784548+00:00",
+    "reason": "Low retrieval confidence (0.59 < 0.65) or missing documentation",
+    "status": "pending",
+    "expert_answer": null,
+    "resolved_by": null,
+    "resolved_at": null
+  },
+  "ESC-33D14A8B": {
+    "id": "ESC-33D14A8B",
+    "query": "How does the quantum entangled subatomic router manage DNS caching?",
+    "timestamp": "2026-10-18T04:28:16.798558+00:00",
+    "reason": "Low retrieval confidence (0.55 < 0.65) or missing documentation",
+    "status": "pending",
+    "expert_answer": null,
+    "resolved_by": null,
+    "resolved_at": null
+  },
+  "ESC-9065DDB0": {
+    "id": "ESC-9065DDB0",
+    "query": "What is the secret master backdoor password for the BD server cluster?",
+    "timestamp": "2026-10-18T04:28:16.801855+00:00",
+    "reason": "Low retrieval confidence (0.65 < 0.65) or missing documentation",
+    "status": "pending",
+    "expert_answer": null,
+    "resolved_by": null,
+    "resolved_at": null
+  },
+  "ESC-BBDBA06F": {
+    "id": "ESC-BBDBA06F",
+    "query": "Can I build an autonomous flying drone fleet using Brilliant Directories settings?",
+    "timestamp": "2026-10-18T04:28:16.804649+00:00",
+    "reason": "Low retrieval confidence (0.57 < 0.65) or missing documentation",
+    "status": "pending",
+    "expert_answer": null,
+    "resolved_by": null,
+    "resolved_at": null
+  },
+  "ESC-3D9BD82C": {
+    "id": "ESC-3D9BD82C",
+    "query": "Where do social media profile icons appear on the member directory website?",
+    "timestamp": "2026-10-18T04:28:16.814163+00:00",
+    "reason": "Low retrieval confidence (0.64 < 0.65) or missing documentation",
+    "status": "pending",
+    "expert_answer": null,
+    "resolved_by": null,
+    "resolved_at": null
+  },
+  "ESC-B38013A0": {
+    "id": "ESC-B38013A0",
+    "query": "What is the policy for handling disputed credit card chargebacks?",
+    "timestamp": "2026-10-18T04:28:16.817365+00:00",
+    "reason": "Low retrieval confidence (0.61 < 0.65) or missing documentation",
+    "status": "pending",
+    "expert_answer": null,
+    "resolved_by": null,
+    "resolved_at": null
+  },
+  "ESC-7DA80EAB": {
+    "id": "ESC-7DA80EAB",
+    "query": "Does Brilliant Directories support Stripe SCA and 3D Secure 2?",
+    "timestamp": "2026-10-18T04:29:21.789891+00:00",
+    "reason": "Low retrieval confidence (0.64 < 0.65) or missing documentation",
+    "status": "pending",
+    "expert_answer": null,
+    "resolved_by": null,
+    "resolved_at": null
+  },
+  "ESC-A055C655": {
+    "id": "ESC-A055C655",
+    "query": "How do I process a full or partial refund for a member?",
+    "timestamp": "2026-10-18T04:29:21.797289+00:00",
+    "reason": "Low retrieval confidence (0.61 < 0.65) or missing documentation",
+    "status": "pending",
+    "expert_answer": null,
+    "resolved_by": null,
+    "resolved_at": null
+  },
+  "ESC-69AA3E6B": {
+    "id": "ESC-69AA3E6B",
+    "query": "What is the three-tier category hierarchy structure in Brilliant Directories?",
+    "timestamp": "2026-10-18T04:29:21.804410+00:00",
+    "reason": "Low retrieval confidence (0.62 < 0.65) or missing documentation",
+    "status": "pending",
+    "expert_answer": null,
+    "resolved_by": null,
+    "resolved_at": null
+  },
+  "ESC-6291B2EB": {
+    "id": "ESC-6291B2EB",
+    "query": "How does automated lead generation and matching work?",
+    "timestamp": "2026-10-18T04:29:21.807254+00:00",
+    "reason": "Low retrieval confidence (0.65 < 0.65) or missing documentation",
+    "status": "pending",
+    "expert_answer": null,
+    "resolved_by": null,
+    "resolved_at": null
+  },
+  "ESC-891A4682": {
+    "id": "ESC-891A4682",
+    "query": "Can I charge members to purchase incoming client leads?",
+    "timestamp": "2026-10-18T04:29:21.809351+00:00",
+    "reason": "Low retrieval confidence (0.62 < 0.65) or missing documentation",
+    "status": "pending",
+    "expert_answer": null,
+    "resolved_by": null,
+    "resolved_at": null
+  },
+  "ESC-FA2DE092": {
+    "id": "ESC-FA2DE092",
+    "query": "How do I set up webhooks to push new member registrations to HubSpot CRM or Zapier?",
+    "timestamp": "2026-10-18T04:29:21.812574+00:00",
+    "reason": "Low retrieval confidence (0.63 < 0.65) or missing documentation",
+    "status": "pending",
+    "expert_answer": null,
+    "resolved_by": null,
+    "resolved_at": null
+  },
+  "ESC-45D432A7": {
+    "id": "ESC-45D432A7",
+    "query": "Which webhook trigger events are natively supported?",
+    "timestamp": "2026-10-18T04:29:21.814734+00:00",
+    "reason": "Low retrieval confidence (0.55 < 0.65) or missing documentation",
+    "status": "pending",
+    "expert_answer": null,
+    "resolved_by": null,
+    "resolved_at": null
+  },
+  "ESC-8F1E12E1": {
+    "id": "ESC-8F1E12E1",
+    "query": "How does the quantum entangled subatomic router manage DNS caching?",
+    "timestamp": "2026-10-18T04:29:21.821399+00:00",
+    "reason": "Low retrieval confidence (0.52 < 0.65) or missing documentation",
+    "status": "pending",
+    "expert_answer": null,
+    "resolved_by": null,
+    "resolved_at": null
+  },
+  "ESC-B10F5BBD": {
+    "id": "ESC-B10F5BBD",
+    "query": "What is the secret master backdoor password for the BD server cluster?",
+    "timestamp": "2026-10-18T04:29:21.823523+00:00",
+    "reason": "Low retrieval confidence (0.57 < 0.65) or missing documentation",
+    "status": "pending",
+    "expert_answer": null,
+    "resolved_by": null,
+    "resolved_at": null
+  },
+  "ESC-9A5F422D": {
+    "id": "ESC-9A5F422D",
+    "query": "Can I build an autonomous flying drone fleet using Brilliant Directories settings?",
+    "timestamp": "2026-10-18T04:29:21.825346+00:00",
+    "reason": "Low retrieval confidence (0.58 < 0.65) or missing documentation",
+    "status": "pending",
+    "expert_answer": null,
+    "resolved_by": null,
+    "resolved_at": null
+  },
+  "ESC-2A8CFB08": {
+    "id": "ESC-2A8CFB08",
+    "query": "What are the rules and threshold before an admin is required to verify refunds above $100?",
+    "timestamp": "2026-10-18T04:29:21.827749+00:00",
+    "reason": "Low retrieval confidence (0.64 < 0.65) or missing documentation",
+    "status": "pending",
+    "expert_answer": null,
+    "resolved_by": null,
+    "resolved_at": null
+  },
+  "ESC-A4A86D71": {
+    "id": "ESC-A4A86D71",
+    "query": "What are the required column headers when importing categories via CSV?",
+    "timestamp": "2026-10-18T04:29:21.829793+00:00",
+    "reason": "Low retrieval confidence (0.63 < 0.65) or missing documentation",
+    "status": "pending",
+    "expert_answer": null,
+    "resolved_by": null,
+    "resolved_at": null
+  },
+  "ESC-F5B72A9B": {
+    "id": "ESC-F5B72A9B",
+    "query": "Where do social media profile icons appear on the member directory website?",
+    "timestamp": "2026-10-18T04:29:21.833977+00:00",
+    "reason": "Low retrieval confidence (0.62 < 0.65) or missing documentation",
+    "status": "pending",
+    "expert_answer": null,
+    "resolved_by": null,
+    "resolved_at": null
+  },
+  "ESC-35ED641A": {
+    "id": "ESC-35ED641A",
+    "query": "What is the policy for handling disputed credit card chargebacks?",
+    "timestamp": "2026-10-18T04:29:21.835967+00:00",
+    "reason": "Low retrieval confidence (0.60 < 0.65) or missing documentation",
+    "status": "pending",
+    "expert_answer": null,
+    "resolved_by": null,
+    "resolved_at": null
+  },
+  "ESC-E6942BDF": {
+    "id": "ESC-E6942BDF",
+    "query": "How do I overclock the physical CPU liquid cooling pump from the admin dashboard?",
+    "timestamp": "2026-10-18T04:29:21.837901+00:00",
+    "reason": "Low retrieval confidence (0.59 < 0.65) or missing documentation",
+    "status": "pending",
+    "expert_answer": null,
+    "resolved_by": null,
+    "resolved_at": null
+  },
+  "ESC-34985006": {
+    "id": "ESC-34985006",
+    "query": "How does the quantum entangled subatomic router manage DNS caching?",
+    "timestamp": "2026-10-18T04:33:27.260166+00:00",
+    "reason": "Low retrieval confidence (0.45 < 0.65) or missing documentation",
+    "status": "pending",
+    "expert_answer": null,
+    "resolved_by": null,
+    "resolved_at": null
+  },
+  "ESC-D82720D2": {
+    "id": "ESC-D82720D2",
+    "query": "What is the secret master backdoor password for the BD server cluster?",
+    "timestamp": "2026-10-18T04:33:27.262958+00:00",
+    "reason": "Low retrieval confidence (0.62 < 0.65) or missing documentation",
+    "status": "pending",
+    "expert_answer": null,
+    "resolved_by": null,
+    "resolved_at": null
+  },
+  "ESC-5A2D513F": {
+    "id": "ESC-5A2D513F",
+    "query": "How does the quantum entangled subatomic router manage DNS caching?",
+    "timestamp": "2026-10-18T04:34:26.504261+00:00",
+    "reason": "Low retrieval confidence (0.45 < 0.65) or missing documentation",
+    "status": "pending",
+    "expert_answer": null,
+    "resolved_by": null,
+    "resolved_at": null
+  },
+  "ESC-1209679C": {
+    "id": "ESC-1209679C",
+    "query": "What is the secret master backdoor password for the BD server cluster?",
+    "timestamp": "2026-10-18T04:34:26.507890+00:00",
+    "reason": "Low retrieval confidence (0.62 < 0.65) or missing documentation",
+    "status": "pending",
+    "expert_answer": null,
+    "resolved_by": null,
+    "resolved_at": null
+  },
+  "ESC-EA38F7DA": {
+    "id": "ESC-EA38F7DA",
+    "query": "How do I overclock the physical CPU liquid cooling pump from the admin dashboard?",
+    "timestamp": "2026-10-18T04:34:26.522583+00:00",
+    "reason": "Low retrieval confidence (0.21 < 0.65) or missing documentation",
+    "status": "pending",
+    "expert_answer": null,
+    "resolved_by": null,
+    "resolved_at": null
+  },
+  "ESC-F20597AC": {
+    "id": "ESC-F20597AC",
+    "query": "How does the quantum entangled subatomic router manage DNS caching?",
+    "timestamp": "2026-10-18T04:36:05.527796+00:00",
+    "reason": "Low retrieval confidence (0.00 < 0.65) or missing documentation",
+    "status": "pending",
+    "expert_answer": null,
+    "resolved_by": null,
+    "resolved_at": null
+  },
+  "ESC-A976C04F": {
+    "id": "ESC-A976C04F",
+    "query": "What is the secret master backdoor password for the BD server cluster?",
+    "timestamp": "2026-10-18T04:36:05.530621+00:00",
+    "reason": "Low retrieval confidence (0.00 < 0.65) or missing documentation",
+    "status": "pending",
+    "expert_answer": null,
+    "resolved_by": null,
+    "resolved_at": null
+  },
+  "ESC-08F1D42E": {
+    "id": "ESC-08F1D42E",
+    "query": "Can I build an autonomous flying drone fleet using Brilliant Directories settings?",
+    "timestamp": "2026-10-18T04:36:05.533145+00:00",
+    "reason": "Low retrieval confidence (0.21 < 0.65) or missing documentation",
+    "status": "pending",
+    "expert_answer": null,
+    "resolved_by": null,
+    "resolved_at": null
+  },
+  "ESC-C709EE67": {
+    "id": "ESC-C709EE67",
+    "query": "How do I overclock the physical CPU liquid cooling pump from the admin dashboard?",
+    "timestamp": "2026-10-18T04:36:05.546993+00:00",
+    "reason": "Low retrieval confidence (0.00 < 0.65) or missing documentation",
+    "status": "pending",
+    "expert_answer": null,
+    "resolved_by": null,
+    "resolved_at": null
+  },
+  "ESC-15841FA0": {
+    "id": "ESC-15841FA0",
+    "query": "What is the internal quantum algorithm used for warp drive navigation?",
+    "timestamp": "2026-10-18T04:36:14.801315+00:00",
+    "reason": "Low retrieval confidence (0.00 < 0.65) or missing documentation",
+    "status": "pending",
+    "expert_answer": null,
+    "resolved_by": null,
+    "resolved_at": null
+  },
+  "ESC-086CA14C": {
+    "id": "ESC-086CA14C",
+    "query": "How do we integrate custom biometric fingerprint scanner at member login?",
+    "timestamp": "2026-10-18T04:36:14.822430+00:00",
+    "reason": "Low retrieval confidence (0.00 < 0.65) or missing documentation",
+    "status": "resolved",
+    "expert_answer": "Biometric fingerprint scanning requires our custom WebAuthn FIDO2 Add-on available via developer settings.",
+    "resolved_by": "Senior Security Engineer",
+    "resolved_at": "2026-10-18T04:36:14.823769+00:00"
+  },
+  "ESC-0FA4893D": {
+    "id": "ESC-0FA4893D",
+    "query": "What is the internal quantum algorithm used for warp drive navigation?",
+    "timestamp": "2026-10-18T05:04:31.399781+00:00",
+    "reason": "Low retrieval confidence (0.00 < 0.65) or missing documentation",
+    "status": "pending",
+    "expert_answer": null,
+    "resolved_by": null,
+    "resolved_at": null
+  },
+  "ESC-1C066867": {
+    "id": "ESC-1C066867",
+    "query": "How do we integrate custom biometric fingerprint scanner at member login?",
+    "timestamp": "2026-10-18T05:04:31.421417+00:00",
+    "reason": "Low retrieval confidence (0.00 < 0.65) or missing documentation",
+    "status": "resolved",
+    "expert_answer": "Biometric fingerprint scanning requires our custom WebAuthn FIDO2 Add-on available via developer settings.",
+    "resolved_by": "Senior Security Engineer",
+    "resolved_at": "2026-10-18T05:04:31.422333+00:00"
+  },
+  "ESC-BDE03BB4": {
+    "id": "ESC-BDE03BB4",
+    "query": "How does the quantum entangled subatomic router manage DNS caching?",
+    "timestamp": "2026-10-18T05:05:46.827234+00:00",
+    "reason": "Low retrieval confidence (0.00 < 0.65) or missing documentation",
+    "status": "pending",
+    "expert_answer": null,
+    "resolved_by": null,
+    "resolved_at": null
+  },
+  "ESC-0FB7A21D": {
+    "id": "ESC-0FB7A21D",
+    "query": "What is the secret master backdoor password for the BD server cluster?",
+    "timestamp": "2026-10-18T05:05:46.829538+00:00",
+    "reason": "Low retrieval confidence (0.00 < 0.65) or missing documentation",
+    "status": "pending",
+    "expert_answer": null,
+    "resolved_by": null,
+    "resolved_at": null
+  },
+  "ESC-730E7616": {
+    "id": "ESC-730E7616",
+    "query": "Can I build an autonomous flying drone fleet using Brilliant Directories settings?",
+    "timestamp": "2026-10-18T05:05:46.831595+00:00",
+    "reason": "Low retrieval confidence (0.21 < 0.65) or missing documentation",
+    "status": "pending",
+    "expert_answer": null,
+    "resolved_by": null,
+    "resolved_at": null
+  },
+  "ESC-31A822DA": {
+    "id": "ESC-31A822DA",
+    "query": "How do I overclock the physical CPU liquid cooling pump from the admin dashboard?",
+    "timestamp": "2026-10-18T05:05:46.840921+00:00",
+    "reason": "Low retrieval confidence (0.00 < 0.65) or missing documentation",
+    "status": "pending",
+    "expert_answer": null,
+    "resolved_by": null,
+    "resolved_at": null
+  },
+  "ESC-E6BCD87C": {
+    "id": "ESC-E6BCD87C",
+    "query": "What is the internal quantum algorithm used for warp drive navigation?",
+    "timestamp": "2026-10-18T05:07:19.704760+00:00",
+    "reason": "Low retrieval confidence (0.00 < 0.65) or missing documentation",
+    "status": "pending",
+    "expert_answer": null,
+    "resolved_by": null,
+    "resolved_at": null
+  },
+  "ESC-46B9C183": {
+    "id": "ESC-46B9C183",
+    "query": "How do we integrate custom biometric fingerprint scanner at member login?",
+    "timestamp": "2026-10-18T05:07:19.730807+00:00",
+    "reason": "Low retrieval confidence (0.00 < 0.65) or missing documentation",
+    "status": "resolved",
+    "expert_answer": "Biometric fingerprint scanning requires our custom WebAuthn FIDO2 Add-on available via developer settings.",
+    "resolved_by": "Senior Security Engineer",
+    "resolved_at": "2026-10-18T05:07:19.731932+00:00"
+  },
+  "ESC-2072206B": {
+    "id": "ESC-2072206B",
+    "query": "How does the quantum entangled subatomic router manage DNS caching?",
+    "timestamp": "2026-10-18T05:07:58.335706+00:00",
+    "reason": "Low retrieval confidence (0.00 < 0.65) or missing documentation",
+    "status": "pending",
+    "expert_answer": null,
+    "resolved_by": null,
+    "resolved_at": null
+  },
+  "ESC-DBCC0E48": {
+    "id": "ESC-DBCC0E48",
+    "query": "What is the secret master backdoor password for the BD server cluster?",
+    "timestamp": "2026-10-18T05:07:58.338748+00:00",
+    "reason": "Low retrieval confidence (0.00 < 0.65) or missing documentation",
+    "status": "pending",
+    "expert_answer": null,
+    "resolved_by": null,
+    "resolved_at": null
+  },
+  "ESC-BEACE52E": {
+    "id": "ESC-BEACE52E",
+    "query": "Can I build an autonomous flying drone fleet using Brilliant Directories settings?",
+    "timestamp": "2026-10-18T05:07:58.340868+00:00",
+    "reason": "Low retrieval confidence (0.21 < 0.65) or missing documentation",
+    "status": "pending",
+    "expert_answer": null,
+    "resolved_by": null,
+    "resolved_at": null
+  },
+  "ESC-7F569DB5": {
+    "id": "ESC-7F569DB5",
+    "query": "How do I overclock the physical CPU liquid cooling pump from the admin dashboard?",
+    "timestamp": "2026-10-18T05:07:58.350321+00:00",
+    "reason": "Low retrieval confidence (0.00 < 0.65) or missing documentation",
+    "status": "pending",
+    "expert_answer": null,
+    "resolved_by": null,
+    "resolved_at": null
+  }
+}
