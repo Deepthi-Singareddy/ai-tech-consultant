@@ -33,3 +33,8 @@ Thumbs.db
 
 # Scratch data
 *.tmp
+
+# Confidential / Brief Materials
+*.docx
+assignment_link.txt
+ref_material.txt
